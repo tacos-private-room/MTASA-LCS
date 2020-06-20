@@ -1,0 +1,26 @@
+<meta>
+    <script src="radio_c.lua" type="client"/>
+    <script src="radio.lua" type="server"/>
+    <file src="/src/DOUBLE.mp3" />
+    <file src="/src/FLASH.mp3" />
+    <file src="/src/HEAD.mp3" />
+    <file src="/src/KJAH.mp3" />
+    <file src="/src/LCFR.mp3" />
+    <file src="/src/LCJ.mp3" />
+    <file src="/src/LIPS.mp3" />
+    <file src="/src/MSX.mp3" />
+    <file src="/src/MUNDO.mp3" />
+    <file src="/src/RISE.mp3" />
+    <file src="/src/WILD.mp3" />
+    <file src="/src/WAVE.mp3" />
+    <file src="/src/VROCK.mp3" />
+    <file src="/src/VCPR.mp3" />
+    <file src="/src/KCHAT.mp3" />
+    <file src="/src/FLASH_VCS.mp3" />
+    <file src="/src/FEVER.mp3" />
+    <file src="/src/ESPANT.mp3" />
+    <file src="/src/EMOTION.mp3" />
+
+    <export function="playRadio" type="client" />
+    <export function="stopRadio" type="client" />
+</meta>

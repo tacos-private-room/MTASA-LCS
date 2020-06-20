@@ -1,0 +1,157 @@
+p_vehicles = {}
+MAX_VEH_LIMIT = 5
+vehicleNames = {
+    "Landstalker", "Bravura", "Buffalo", "Linerunner", "Perennial", "Sentinel", "Dumper", "Fire Truck", "Trashmaster", "Stretch", "Manana",
+    "Infernus", "Voodoo", "Pony", "Mule", "Cheetah", "Ambulance", "Leviathan", "Moonbeam", "Esperanto", "Taxi", "Washington", "Bobcat",
+    "Mr. Whoopee", "BF Injection", "Hunter", "Premier", "Enforcer", "Securicar", "Banshee", "Predator", "Bus", "Rhino", "Barracks", "Hotknife",
+    "Trailer 1", "Previon", "Coach", "Cabbie", "Stallion", "Rumpo", "RC Bandit", "Romero", "Packer", "Monster", "Admiral", "Squalo",
+    "Seasparrow", "Pizzaboy", "Tram", "Trailer 2", "Turismo", "Speeder", "Reefer", "Tropic", "Flatbed", "Yankee", "Caddy", "Solair",
+    "Berkley's RC Van", "Skimmer", "PCJ-600", "Faggio", "Freeway", "RC Baron", "RC Raider", "Glendale", "Oceanic", "Sanchez", "Sparrow", "Patriot",
+    "Quadbike", "Coastguard", "Dinghy", "Hermes", "Sabre", "Rustler", "ZR-350", "Walton", "Regina", "Comet", "BMX", "Burrito", "Camper", "Marquis",
+    "Baggage", "Dozer", "Maverick", "News Chopper", "Rancher", "FBI Rancher", "Virgo", "Greenwood", "Jetmax", "Hotring Racer", "Sandking",
+    "Blista Compact", "Police Maverick", "Boxville", "Benson", "Mesa", "RC Goblin", "Hotring Racer 3", "Hotring Racer 2", "Bloodring Banger",
+    "Rancher Lure", "Super GT", "Elegant", "Journey", "Bike", "Mountain Bike", "Beagle", "Cropduster", "Stuntplane", "Tanker", "Roadtrain", "Nebula",
+    "Majestic", "Buccaneer", "Shamal", "Hydra", "FCR-900", "NRG-500", "HPV1000", "Cement Truck", "Towtruck", "Fortune", "Cadrona", "FBI Truck",
+    "Willard", "Forklift", "Tractor", "Combine Harvester", "Feltzer", "Remington", "Slamvan", "Blade", "Freight", "Streak", "Vortex", "Vincent",
+    "Bullet", "Clover", "Sadler", "Fire Truck Ladder", "Hustler", "Intruder", "Primo", "Cargobob", "Tampa", "Sunrise", "Merit", "Utility Van",
+    "Nevada", "Yosemite", "Windsor", "Monster 2", "Monster 3", "Uranus", "Jester", "Sultan", "Stratum", "Elegy", "Raindance", "RC Tiger", "Flash",
+    "Tahoma", "Savanna", "Bandito", "Freight Train Flatbed", "Streak Train Trailer", "Kart", "Mower", "Dune", "Sweeper", "Broadway", "Tornado",
+    "AT-400", "DFT-30", "Huntley", "Stafford", "BF-400", "Newsvan", "Tug", "Trailer (Tanker Commando)", "Emperor", "Wayfarer", "Euros", "Hotdog",
+    "Club", "Box Freight", "Trailer 3", "Andromada", "Dodo", "RC Cam", "Launch", "Police LS", "Police", "Police SF", "Police LV", "Police Ranger",
+    "Ranger", "Picador", "S.W.A.T.", "Alpha", "Phoenix", "Glendale Damaged", "Sadler", "Sadler Damaged", "Baggage Trailer (covered)",
+    "Baggage Trailer (Uncovered)", "Trailer (Stairs)", "Boxville Mission", "Farm Trailer", "Street Clean Trailer"
+}
+
+
+function vid(player,cmd,model)
+    local x,y,z = getPositionInfrontOfElement(player,0)
+    local vPtr = createPlayerVehicleById(player,model,x,y,z)
+    if vPtr then warpPedIntoVehicle(player,vPtr,0) end
+end
+addCommandHandler('vid',vid,false,false)
+addCommandHandler('c',vid,false,false)
+
+
+function vn(player,cmd,vname)
+    local x,y,z = getPositionInfrontOfElement(player,0)
+    local model = getVehickeModelIDFromName(vname)
+    if not model then outputChatBox("[载具]: 无效的载具名称!",player,255,255,255) return end
+    local vPtr = createPlayerVehicleById(player,model,x,y,z)
+    if vPtr then warpPedIntoVehicle(player,vPtr,0) end
+end
+addCommandHandler('vn',vn,false,false)
+
+function fix(player)
+    if not isPedInVehicle(player) then outputChatBox("[载具]: 你必须要在一个载具里!",player,255,255,255) return end
+    local vPtr = getPlayerOccupiedVehicle(player)
+    fixVehicle(vPtr)
+    outputChatBox("[载具]: 已经修复!",player,255,255,255)
+end
+addCommandHandler('fix',fix,false,false)
+
+
+function getVehickeModelIDFromName(vname)
+    for i,v in pairs(vehicleNames) do
+        if string.match(string.lower(v),vname) then
+            return getVehicleModelFromName(v)
+        end
+    end
+    return nil
+end
+
+function createPlayerVehicleById(player,model,x,y,z) 
+    if not p_vehicles[player] then 
+        p_vehicles[player] = {}
+    end
+    if not isVehicleMax(player) then
+        local ptr = createVehicle(model,x,y + 5,z)
+        table.insert(p_vehicles[player],ptr)
+        local len = table.size(p_vehicles[player])
+        outputChatBox(string.format("[系统]: 你刷了(%d/"..MAX_VEH_LIMIT..")",len),player,255,255,255)
+        return ptr
+    else
+        local len = table.size(p_vehicles[player])
+        outputChatBox(string.format("车数上限: %d",len),player,255,255,255)
+        return nil
+    end
+end
+
+function deleteAllPlayerVehicle(player) 
+    
+    if p_vehicles[player] then 
+        table.foreach(p_vehicles[player],function(k,v) 
+            --print(k)
+            local veh = p_vehicles[player][k]
+            destroyElement(veh)
+            --table.remove(p_vehicles[player],k)
+        end)
+        p_vehicles[player] = {}
+        outputChatBox("全部载具删除",player,255,255,255)
+    end
+
+end
+addCommandHandler('dc',deleteAllPlayerVehicle,false,false)
+function table.size(tab)
+    local length = 0
+    for _ in pairs(tab) do length = length + 1 end
+    return length
+end
+
+
+-- Plate
+function vplate(thePlayer,commandName,text)
+	local Vehicle = getPedOccupiedVehicle(thePlayer)
+	if Vehicle then
+		if text then
+			setVehiclePlateText( Vehicle, text )
+		else
+			outputChatBox("错误的格式.",thePlayer)
+		end
+	else
+		outputChatBox("你需要在载具里.",thePlayer)
+	end
+end
+addCommandHandler("vplate",vplate)
+
+
+function massChange ( me, command, mass )
+    local c_mass = tonumber ( mass ) -- Convert mass to a number
+    local veh = getPedOccupiedVehicle ( me ) -- Get the player's vehicle
+    
+    if c_mass and veh then  -- If valid mass and in a vehicle
+        local success = setVehicleHandling ( veh, "mass", c_mass) -- Set the vehicle's mass, and check if successful
+        
+        if success then -- If successful
+            outputChatBox ( "[载具]: 修改载具重量-> "..c_mass.." kg", me, 0, 255, 0 ) -- Notify the player of success
+        else -- Too bad failure is still an option
+            outputChatBox ( "[错误]: 修改失败,数值错误", me, 255, 0, 0 ) -- Notify the player of failure, and give a possible reason
+        end
+    elseif not veh then -- If not in a vehicle
+        outputChatBox ( "[错误]: 你不在载具里", me, 255, 0, 0 ) -- Tell the player; He / she obviously doesn't know
+    elseif not c_mass then -- If not a valid mass
+        outputChatBox ( "[用法]: /vmass [重量(kg)]", me, 255, 0, 0 ) -- Tell the player the proper syntax
+    end
+end
+addCommandHandler ( "vmass", massChange )
+
+function isVehicleMax(player) 
+    if p_vehicles[player] then 
+        local len = table.size(p_vehicles[player])
+        if len < MAX_VEH_LIMIT then
+            return false
+        end
+        return true
+    end
+    return false
+end
+
+function getPositionInfrontOfElement(element, meters)
+    if (not element or not isElement(element)) then return false end
+    local meters = (type(meters) == "number" and meters) or 3
+    local posX, posY, posZ = getElementPosition(element)
+    local _, _, rotation = getElementRotation(element)
+    posX = posX - math.sin(math.rad(rotation)) * meters
+    posY = posY + math.cos(math.rad(rotation)) * meters
+    rot = rotation + math.cos(math.rad(rotation))
+    return posX, posY, posZ , rot
+end

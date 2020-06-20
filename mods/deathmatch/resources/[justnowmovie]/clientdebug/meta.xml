@@ -1,0 +1,38 @@
+<meta>
+    <info name="PhrozenByte Debug Utilities" author="Daniel Rudolf" version="1.0.1" type="script"></info>
+
+    <script src="PhrozenByteDebug.lua" type="shared" />
+    <script src="PhrozenByteDebug_s.lua" type="server" />
+    <script src="PhrozenByteDebug_c.lua" type="client" />
+
+    <export function="dump" type="shared" />
+    <export function="get" type="shared" />
+
+    <export function="getDebugLevel" type="server" />
+    <export function="log" type="server" />
+    <export function="error" type="server" />
+    <export function="warn" type="server" />
+    <export function="notice" type="server" />
+
+    <export function="getDebugLevel" type="client" />
+    <export function="log" type="client" />
+    <export function="error" type="client" />
+    <export function="warn" type="client" />
+    <export function="notice" type="client" />
+
+    <export function="requestServerDebugLevel" type="client" />
+    <export function="serverLog" type="client" />
+    <export function="serverError" type="client" />
+    <export function="serverWarn" type="client" />
+    <export function="serverNotice" type="client" />
+
+    <export function="getOnScreenLogCount" type="client" />
+    <export function="initOnScreenLog" type="client" />
+    <export function="clearOnScreenLog" type="client" />
+    <export function="updateOnScreenLog" type="client" />
+    <export function="simpleOnScreenLog" type="client" />
+
+    <file src="README.md" />
+    <file src="LICENSE" />
+    <file src="DOWNLOAD.md" />
+</meta>

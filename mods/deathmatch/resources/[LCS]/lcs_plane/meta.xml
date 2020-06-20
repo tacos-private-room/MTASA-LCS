@@ -1,0 +1,5 @@
+<meta>
+    <script src="plane.lua" type="server" />
+    <script src="plane_c.lua" type="client" />
+
+</meta>

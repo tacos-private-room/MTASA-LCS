@@ -1,0 +1,45 @@
+<meta>
+	<script src="sourceG.lua" type="shared" cache="false" />
+	<script type="client" src="previewC.lua" cache="false" />
+	<script type="client" src="sourceC.lua" cache="false" />
+	<script type="server" src="sourceS.lua" />
+
+	<min_mta_version client="1.5.7" />
+
+	<file src="files/rounded.png" />
+	<file src="files/move.png" />
+	<file src="files/move_x.png" />
+	<file src="files/move_y.png" />
+	<file src="files/move_z.png" />
+	<file src="files/rotate.png" />
+	<file src="files/rotate_x.png" />
+	<file src="files/rotate_y.png" />
+	<file src="files/rotate_z.png" />
+	<file src="files/reset.png" />
+	<file src="files/save.png" />
+	<file src="files/Roboto.ttf" />
+
+	<file src="files/3064.png" />
+	<file src="files/3432.png" />
+	<file src="files/3433.png" />
+	<file src="files/3435.png" />
+	<file src="files/3438.png" />
+	<file src="files/3444.png" />
+	<file src="files/3466.png" />
+	<file src="files/7978.png" />
+	<file src="files/7984.png" />
+	<file src="files/8037.png" />
+	<file src="files/8038.png" />
+
+	<file src="mods/1.dff" />
+	<file src="mods/3.dff" />
+	<file src="mods/4.dff" />
+	<file src="mods/5.dff" />
+	<file src="mods/6.dff" />
+	<file src="mods/7.dff" />
+	<file src="mods/8.dff" />
+	<file src="mods/9.dff" />
+	<file src="mods/10.dff" />
+	<file src="mods/11.dff" />
+	<file src="mods/12.dff" />
+</meta>

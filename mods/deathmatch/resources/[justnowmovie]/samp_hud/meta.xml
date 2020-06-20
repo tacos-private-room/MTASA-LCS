@@ -1,0 +1,8 @@
+<meta>
+	<info author="Al3grab" version="1.0" type="script" name="SA-MP Tag" description="SA-MP Like tag" />
+	<!--
+	<script src="Client.lua" type="client" />
+	<script src="Settings.lua" type="client" />
+	-->
+	<script src="hud.lua" type="client" />
+</meta>

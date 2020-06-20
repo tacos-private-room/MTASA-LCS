@@ -1,0 +1,8 @@
+<meta>
+    <oop>true</oop>
+    <script src="constants.lua" type="client"/>
+    <script src="utils.lua" type="client"/>
+    <script src="Async.lua" type="client"/>
+    <script src="trail.lua" type="client" cache="false"/>
+    <script src="vortices.lua" type="client" cache="false"/>
+</meta>

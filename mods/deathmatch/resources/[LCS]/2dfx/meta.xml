@@ -1,0 +1,6 @@
+<meta>
+    <info author="nurupo" type="script" version="2.0.1" />
+    <script src="2dfx.lua" type="client" />
+    <script src="test.lua" type="client" />
+
+</meta>

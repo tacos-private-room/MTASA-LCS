@@ -1,0 +1,49 @@
+<map>
+	<interiorEntry id="APART_IND" posX="1146.9508056641" posY="-246.05987548828" posZ="23.009216308594" rotation="0" dimension="0" interior="1"/>
+	<interiorReturn refid="APART_IND" posX="1147.8176269531" posY="-262.88272094727" posZ="17.259216308594" rotation="0"  dimension="0" interior="0"/>
+
+	<interiorEntry id="APART_COM" posX="275.44589233398" posY="-423.61975097656" posZ="61.134178161621" rotation="0" dimension="0" interior="1"/>
+	<interiorReturn refid="APART_COM" posX="289.83288574219" posY="-431.16473388672" posZ="25.979734420776" rotation="0"  dimension="0" interior="0"/>
+
+    <interiorEntry id="APART_SHOE" posX="-833.48571777344" posY="293.71618652344" posZ="41.925788879395" rotation="0" dimension="0" interior="1"/>
+	<interiorReturn refid="APART_SHOE" posX="-832.63024902344" posY="294.62246704102" posZ="41.447460174561" rotation="0"  dimension="0" interior="0"/>
+
+	<interiorEntry id="MISSION_YAKUZA" posX="396.11380004883" posY="-1354.4415283203" posZ="223.74661254883" rotation="0" dimension="0" interior="2"/>
+	<interiorReturn refid="MISSION_YAKUZA" posX="322.55590820313" posY="-1358.9328613281" posZ="27.292512893677" rotation="0"  dimension="0" interior="0"/>
+
+
+	<interiorEntry id="MISSION_V" posX="1120.8436279297" posY="-1111.0538330078" posZ="11.869767189026" rotation="0" dimension="0" interior="2"/>
+	<interiorReturn refid="MISSION_V" posX="1120.8372802734" posY="-1110.0167236328" posZ="11.869767189026" rotation="0"  dimension="0" interior="0"/>
+
+	<interiorEntry id="MISSON_DON_OFFCIE" posX="231.9615020752" posY="-1533.3894042969" posZ="129.25187683105" rotation="0" dimension="0" interior="2"/>
+	<interiorReturn refid="MISSON_DON_OFFCIE" posX="222.74255371094" posY="-1493.9664306641" posZ="27.310985565186" rotation="0"  dimension="0" interior="0"/>
+
+
+	<interiorEntry id="MISSON_SAL_OFFCIE" posX="1481.8031005859" posY="-173.88812255859" posZ="55.738750457764" rotation="0" dimension="0" interior="2"/>
+	<interiorReturn refid="MISSON_SAL_OFFCIE" posX="1465.6326904297" posY="-178.90411376953" posZ="55.745594024658" rotation="0"  dimension="0" interior="0"/>
+
+	<interiorEntry id="MISSON_VIN_SHIP" posX="1539.9757080078" posY="-1101.8643798828" posZ="14.252077102661" rotation="0" dimension="0" interior="2"/>
+	<interiorReturn refid="MISSON_VIN_SHIP" posX="1585.0706787109" posY="-1135.7259521484" posZ="18.888072967529" rotation="0"  dimension="0" interior="0"/>
+
+	<interiorEntry id="MISSON_FLOPHOUSE" posX="-1004.9459228516" posY="-161.50398254395" posZ="61.076484680176" rotation="0" dimension="0" interior="2"/>
+	<interiorReturn refid="MISSON_FLOPHOUSE" posX="-1039.4832763672" posY="-175.36207580566" posZ="33.723567962646" rotation="0"  dimension="0" interior="0"/>
+
+	<interiorEntry id="MISSON_SUB_POLICE" posX="-1244.6831054688" posY="-44.010829925537" posZ="58.954830169678" rotation="0" dimension="0" interior="2"/>
+	<interiorReturn refid="MISSON_SUB_POLICE" posX="-1255.5423583984" posY="-44.919586181641" posZ="58.83878326416" rotation="0"  dimension="0" interior="0"/>
+
+    <interiorEntry id="MISSION_WOOD" posX="1221.8984375" posY="-1034.5400390625" posZ="14.843799591064" rotation="0" dimension="0" interior="3"/>
+	<interiorReturn refid="MISSION_WOOD" posX="1104.7958984375" posY="-979.54437255859" posZ="14.839744567871" rotation="0"  dimension="0" interior="0"/>
+
+    <interiorEntry id="MISSION_MARIA" posX="1105.5393066406" posY="-477.39321899414" posZ="32.802093505859" rotation="0" dimension="0" interior="2"/>
+	<interiorReturn refid="MISSION_MARIA" posX="1116.6785888672" posY="-481.01351928711" posZ="19.931232452393" rotation="0"  dimension="0" interior="0"/>
+
+    <interiorEntry id="MISSION_CHURCH" posX="-17.888910293579" posY="-1123.9880371094" posZ="27.723812103271" rotation="0" dimension="0" interior="2"/>
+	<interiorReturn refid="MISSION_CHURCH" posX="17.717998504639" posY="-1124.4221191406" posZ="26.071708679199" rotation="0"  dimension="0" interior="0"/>
+
+    <interiorEntry id="MISSION_DON_ROOF" posX="275.78314208984" posY="-1404.1176757813" posZ="189.81298828125" rotation="0" dimension="0" interior="2"/>
+	<interiorReturn refid="MISSION_DON_ROOF" posX="283.75714111328" posY="-1554.7446289063" posZ="26.961921691895" rotation="0"  dimension="0" interior="0"/>
+
+    <interiorEntry id="MISSION_PRINT" posX="351.19717407227" posY="-133.63165283203" posZ="21.210437774658" rotation="0" dimension="0" interior="0"/>
+	<interiorReturn refid="MISSION_PRINT" posX="354.79956054688" posY="-133.68737792969" posZ="21.210773468018" rotation="0"  dimension="0" interior="0"/>
+
+</map>

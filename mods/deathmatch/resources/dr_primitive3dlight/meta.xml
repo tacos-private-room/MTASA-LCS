@@ -1,0 +1,73 @@
+<meta>
+    <info name="dr_primitive3DLight" version="0.1.4" type="script" author="Ren712" />
+    <min_mta_version client="1.5.7-9.20157" />
+    <oop>true</oop>
+    <include resource="dr_rendertarget" />     
+    <script src="c_primitive3D_directionalLight.lua" type="client" />
+    <file src="fx/primitive3D_directionalLight.fx" type="client" />
+    
+    <script src="c_primitive3D_pointLight.lua" type="client" />
+    <file src="fx/primitive3D_pointLight.fx" type="client" />
+    
+    <script src="c_primitive3D_pointLightNoNRM.lua" type="client" />
+    <file src="fx/primitive3D_pointLightNoNRM.fx" type="client" />
+    
+    <script src="c_primitive3D_spotLight.lua" type="client" />
+    <file src="fx/primitive3D_spotLight.fx" type="client" />
+    
+    <script src="c_primitive3D_spotLightNoNRM.lua" type="client" />
+    <file src="fx/primitive3D_spotLightNoNRM.fx" type="client" />
+    
+    <script src="c_primitive3D_darkLight.lua" type="client" />
+    <file src="fx/primitive3D_darkLight.fx" type="client" />
+    
+    <script src="c_primitive3D_darkLightNoNRM.lua" type="client" />
+    <file src="fx/primitive3D_darkLightNoNRM.fx" type="client" />
+    
+    <script src="c_primitive3D_specularLight.lua" type="client" />
+    <file src="fx/primitive3D_specularLight.fx" type="client" />
+    
+    <script src="c_primitive3D_texture.lua" type="client" />
+    <file src="fx/primitive3D_texture.fx" type="client" />
+    
+    <script src="c_primitive3D_textureNoDB.lua" type="client" />
+    <file src="fx/primitive3D_textureNoDB.fx" type="client" />
+    
+    <script src="c_primitive3D_projectedTexture.lua" type="client" />
+    <file src="fx/primitive3D_projectedTexture.fx" type="client" />
+
+    <script src="c_primitive3D_projectedTexture2.lua" type="client" />
+    <file src="fx/primitive3D_projectedTexture2.fx" type="client" />
+    
+    <script src="c_primitive3D_projectedTextureNoDB.lua" type="client" />
+    <file src="fx/primitive3D_projectedTextureNoDB.fx" type="client" />
+    
+    <script src="c_primitive3D_projectedTextureNoNRM.lua" type="client" />
+    <file src="fx/primitive3D_projectedTextureNoNRM.fx" type="client" />
+    
+    <script src="c_primitive3D_projectedTextureCone.lua" type="client" />
+    <file src="fx/primitive3D_projectedTextureCone.fx" type="client" />
+
+    <script src="c_primitive3D_projectedTextureCone2.lua" type="client" />
+    <file src="fx/primitive3D_projectedTextureCone2.fx" type="client" />
+    
+    <script src="c_primitive3D_projectedTextureConeNoDB.lua" type="client" />
+    <file src="fx/primitive3D_projectedTextureConeNoDB.fx" type="client" />
+    
+    <script src="c_primitive3D_projectedTextureConeNoNRM.lua" type="client" />
+    <file src="fx/primitive3D_projectedTextureConeNoNRM.fx" type="client" />
+    
+    <script src="c_primitive3D_projectedTextureCube.lua" type="client" />
+    <file src="fx/primitive3D_projectedTextureCube.fx" type="client" />
+    
+    <script src="c_primitive3D_projectedTextureCubeNoNRM.lua" type="client" />
+    <file src="fx/primitive3D_projectedTextureCubeNoNRM.fx" type="client" />
+    
+    <script src="c_common.lua" type="client" />
+    <file src="fx/primitive2D_fixZBuffer.fx" type="client" />
+    
+    <script src="c_resource_test.lua" type="client" />
+    
+    <file src="tex/UV_Grid_Sm.dds" />
+    <file src="tex/cubebox.dds" />
+</meta>

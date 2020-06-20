@@ -1,0 +1,6 @@
+<meta>
+    <info author="byavr" name="ro" description="Kaldirim" type="script" version="1.1" />
+    <script src="Calcadas.lua" type="client"/>
+	<file src="shader.fx" />
+	<file src="1.png" />
+</meta>

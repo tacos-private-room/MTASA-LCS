@@ -1,0 +1,5 @@
+<meta>
+    <script src="debug.lua" type="server"/>
+    <script src="debug_c.lua" type="client"/>
+    <script src="pos.lua" type="client"/>
+</meta>

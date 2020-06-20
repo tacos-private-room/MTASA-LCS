@@ -1,0 +1,14 @@
+<meta>
+  <info name="chat2" type="script" version="1.0.1" author="nrzull" />
+
+  <script src="chat2_shared.lua" type="shared" />
+  <script src="chat2_server.lua" type="server" />
+  <script src="chat2_client.lua" type="client" />
+
+  <file src="index.html" />
+  <file src="styles.css" />
+  <file src="scripts.js" />
+
+  <export function="isChatVisible" type="client" />
+  <export function="useDefaultOutput" type="server" />
+</meta>
