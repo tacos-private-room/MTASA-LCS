@@ -1,6 +1,10 @@
 tram,tram,tram,tram,300,nil,nil,true
 tramd,tramd,tram,tramd,300,nil,nil,true
 ferry,ferry,ferry,ferry,300,nil,nil,true
+
+veg_treea1,veg_treea1,veg_trees,veg_treea1,250,nil,true,nil
+bar_barrier10,bar_barrier10,barr_wirefence,bar_barrier10,73,nil,true,nil
+bar_barrier12,bar_barrier12,barr_wirefence,bar_barrier12,73,nil,true,nil
 telgrphpole02,telgrphpole02,t_telegraph,telgrphpole02,100,nil,true,nil
 bridge_support,bridge_support,rp_bridge,bridge_support,213,nil,true,nil
 bridge_liftweight,bridge_liftweight,rp_bridge,bridge_liftweight,299,nil,true,true

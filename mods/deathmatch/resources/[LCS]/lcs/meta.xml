@@ -24,6 +24,17 @@
 	<file src="Content/models/doublestreetlght1.dff" type="client" />
 	<file src="Content/coll/doublestreetlght1.col" type="client" />
 	-->
+	<file src="Content/models/veg_treea1.dff" type="client" />
+	<file src="Content/coll/veg_treea1.col" type="client" />
+
+	<file src="Content/models/bar_barrier12.dff" type="client" />
+	<file src="Content/coll/bar_barrier12.col" type="client" />
+	
+	<file src="Content/textures/barr_wirefence.txd" type="client" />
+	<file src="Content/models/bar_barrier10.dff" type="client" />
+	<file src="Content/coll/bar_barrier10.col" type="client" />
+	
+	
 	<file src="Content/textures/t_telegraph.txd" type="client" />
 	<file src="Content/models/telgrphpole02.dff" type="client" />
 	<file src="Content/coll/telgrphpole02.col" type="client" />
