@@ -271,4 +271,6 @@
     <file src="weapons/bat.dff"></file>
     <file src="weapons/shovel.txd"></file>
     <file src="weapons/shovel.dff"></file>
+    <file src="vehicles/sanchez.txd"></file>
+    <file src="vehicles/sanchez.dff"></file>
 </meta>
