@@ -5,3 +5,5 @@ mods/deathmatch/internal.db-journal
 mods/deathmatch/logs/
 mods/deathmatch/resources/[LCS]/lcs/Content
 mods/deathmatch/resource-cache/
+mods/deathmatch/backups/
+*.db
