@@ -5,7 +5,7 @@ validVehicleModels = {
     predator = 430, bus = 431, rhino = 432, barracks = 433, hotknife = 434, artict1 = 435, previon = 436, coach = 437, cabbie = 438, stallion = 439,
     rumpo = 440, rcbandit = 441, romero = 442, packer = 443, monster = 444, admiral = 445, squalo = 446, seaspar = 447, pizzaboy = 448, tram = 449,
     artict2 = 450, turismo = 451, speeder = 452, reefer = 453, tropic = 454, flatbed = 455, yankee = 456, golfcart = 457, solair = 458, topfun = 459,
-    seaplane = 460, pcj600 = 461, faggio = 462, freeway = 463, rcbaron = 464, rcraider = 465, glendale = 466, oceanic = 467, dirtbike = 468, sparrow = 469,
+    seaplane = 460, pcj600 = 461, faggio = 462, freeway = 463, rcbaron = 464, rcraider = 465, glendale = 466, oceanic = 467, sanchez = 468, sparrow = 469,
     patriot = 470, quadbike = 471, coastgrd = 472, dinghy = 473, hermes = 474, sabre = 475, rustler = 476, zr350 = 477, walton = 478, regina = 479,
     comet = 480, bmx = 481, burrito = 482, camper = 483, marquis = 484, baggage = 485, dozer = 486, maverick = 487, coastmav = 488, rancher = 489,
     fbiranch = 490, virgo = 491, greenwoo = 492, cupboat = 493, hotring = 494, sandking = 495, blistac = 496, polmav = 497, boxville = 498, benson = 499,
