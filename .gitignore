@@ -7,3 +7,4 @@ mods/deathmatch/resources/[LCS]/lcs/Content
 mods/deathmatch/resource-cache/
 mods/deathmatch/backups/
 *.db
+mods/deathmatch/resources/.idea/workspace.xml
