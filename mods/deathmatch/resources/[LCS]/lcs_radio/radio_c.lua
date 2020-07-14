@@ -12,6 +12,7 @@ radioStations = {
     {"MSX 98","src/MSX.mp3",0},
     {"RADIO DEL MUNDO","src/MUNDO.mp3",0},
     --[[
+	{"SYDNEY SMOOTHFM 95.3","src/SYD.mp3",0},
     {"PARADISE FM","src/WILD.mp3",0},
     {"WAVE 103","src/WAVE.mp3",0},
     {"V-ROCK","src/VROCK.mp3",0},

@@ -1,8 +1,0 @@
-<meta>
-	<oop>true</oop>
-	<min_mta_version server="1.5.2-9.07903" client="1.5.2-9.07903"/>
-	<info author="XaskeL" version="0.0.1" name="3D Glitch Effect" description="3D Glitch Effect" type="script"/>
-	<!-- SCRIPTS -->
-	<script src="client.lua" type="client" cache="false"/>
-	<file src="shader.txt" type="client"/>
-</meta>

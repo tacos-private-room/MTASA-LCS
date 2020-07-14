@@ -20,6 +20,9 @@
     <file src="/src/FEVER.mp3" />
     <file src="/src/ESPANT.mp3" />
     <file src="/src/EMOTION.mp3" />
+	<!--
+    <file src="/src/SYD.mp3" />
+	-->
 
     <export function="playRadio" type="client" />
     <export function="stopRadio" type="client" />

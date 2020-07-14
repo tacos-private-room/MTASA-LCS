@@ -1,12 +1,12 @@
 
 <meta>
-	<info type="script" name="JStreamer" author="JDev(CodyJ)" description="JDev Streamer V2 (8 was 0.8)" version="2" />
-	<file src="gta3.JSD" />
- 
+	<info type="script" name="Liberty City Stories Map" author="nurupo" description="MTA-Stream Liberty City" version="3" Streamer="1" />
+	
+	<!-- Removed for new streamer 
 	<script src="Loaders/JSDLoader.lua" type="client" />
 	<script src="Loaders/JSPLoader.lua" type="server" />
+	-->
 	<script src="Settings/CWaterData.lua" type="client" />
-
 	<!-- LCS Transportation Objects -->
 	<file src="Content/models/tram.dff" type="client" />
 	<file src="Content/coll/tram.col" type="client" />

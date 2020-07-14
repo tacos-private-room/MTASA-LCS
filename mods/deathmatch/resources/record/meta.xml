@@ -1,5 +1,0 @@
-<meta>
-	<info author="theRENEX" type="script" name="REC" version="0.1" />
-	<script src="rec.lua" type="client" />
-	<script src="rec_sv.lua" />
-</meta>

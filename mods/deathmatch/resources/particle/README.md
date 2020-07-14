@@ -1,2 +1,0 @@
-# xrparticleseditor
-xrParticlesEditor for MutliTheftAuto

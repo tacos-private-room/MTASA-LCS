@@ -1,7 +1,0 @@
-<meta>
-	<info name="dr_blendShad" author="Ren712" version="0.0.3" type="script" />
-	<include resource="dr_rendertarget" /> 
-	<script src="c_main.lua" type="client" />
-	<file src="fx/RToutput_add.fx" type="client" />
-	<file src="fx/mta-helper.fx" type="client" />
-</meta>

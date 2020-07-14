@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="slothbot">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/slothbot.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

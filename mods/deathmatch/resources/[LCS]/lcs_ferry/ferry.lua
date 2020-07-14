@@ -52,7 +52,7 @@ routes = {
 }
 waitTime = 10 * 1000
 speed = 4000
-ferry_1 = exports.Objs:JcreateObject('ferry',0,0,3.0,0,0,90)
+ferry_1 = exports['MTA-Stream']:streamObject('ferry',0,0,3.0,0,0,90)
 
 board_markers = {nil,nil}
 current_waypoint = 1

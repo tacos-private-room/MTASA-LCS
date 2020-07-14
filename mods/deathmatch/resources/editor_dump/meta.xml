@@ -7,7 +7,7 @@
         <setting name="#useLODs" value="[ false ]"></setting>
         <setting name="#gamespeed" value="[ 1 ]"></setting>
         <setting name="#minplayers" value="[ 0 ]"></setting>
-        <setting name="#gravity" value="[ 0.0080000004 ]"></setting>
+        <setting name="#gravity" value="[ 0.008 ]"></setting>
         <setting name="#waveheight" value="[ 0 ]"></setting>
         <setting name="#locked_time" value="[ false ]"></setting>
         <setting name="#weather" value="[ 0 ]"></setting>
