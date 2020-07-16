@@ -23,7 +23,7 @@
         <object name="resource.admin"></object>
         <object name="resource.webadmin"></object>
         <object name="resource.acpanel"></object>
-        <object name="resource.cStream"></object>
+        <object name="resource.MTA-Stream"></object>
         <object name="resource.lcs"></object>
         <object name="resource.modloader"></object>
         <object name="resource.dgs"></object>
