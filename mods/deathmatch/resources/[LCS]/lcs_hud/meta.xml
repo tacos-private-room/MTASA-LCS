@@ -1,12 +1,18 @@
 ﻿<meta>
 	<info author="#RooTs" version="1.0.0" type="script" name="LibertyCityStories" description="Liberty City Stories" showInResourceBrowser="true"/>
-
-
-
-
 	<script src="sourceC.lua" type="client"/>
+	<script src="c_hud_mask.lua" type="client" validate="false"/>
 
-
+	<file src="hud_mask.fx" type="client" />
+	<file src="include/tex_matrix.fx" type="client" />
+	<file src="images/radar.jpg" type="client" />
+	<file src="images/circle_mask.png" type="client" />
+	<file src="images/sept_mask.png" type="client" />
+	<file src="images/radardisc.png" type="client" />
+	<file src="images/radar_centre.png" type="client" />
+	<file src="images/radar_north.png" type="client" />
+	
+	
 	<file src="img/star1.png" />
 	<file src="img/star2.png" />
 	<file src="img/+.png" />

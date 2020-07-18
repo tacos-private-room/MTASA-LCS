@@ -1,10 +1,11 @@
 <meta>
     <script src="loading.lua" type="client"/>
+    <script src="menu.lua" type="client"/>
     <file src="loadsc0.png" />
     <file src="loadsc1.png" />
     <file src="loadsc2.png" />
     <file src="loadsc3.png" />
     <file src="lcs_theme.mp3" />
 
-    <download_priority_group>10</download_priority_group>
+    <download_priority_group>999</download_priority_group>
 </meta>
