@@ -5,6 +5,7 @@
     <file src="loadsc1.png" />
     <file src="loadsc2.png" />
     <file src="loadsc3.png" />
+    <file src="frontend_background.png" />
     <file src="lcs_theme.mp3" />
 
     <download_priority_group>999</download_priority_group>
