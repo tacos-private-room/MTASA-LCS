@@ -1,3 +1,4 @@
+--[[
 function objdebug(button, state, absoluteX, absoluteY, worldX, worldY, worldZ, clickedElement )
     if(clickedElement) then
         --if getElementType(clickedElement) == "Object" then
@@ -20,3 +21,4 @@ function objrot (cmd,rotx,roty,rotz)
     setElementRotation("sawmill",rotx,roty,rotx)
 end
 addCommandHandler ( "objrot", objrot )
+--]]

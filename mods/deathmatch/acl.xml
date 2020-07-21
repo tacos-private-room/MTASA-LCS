@@ -27,6 +27,7 @@
         <object name="resource.lcs"></object>
         <object name="resource.modloader"></object>
         <object name="resource.dgs"></object>
+        <object name="resource.lcs_gMenu"></object>
     </group>
     <group name="Console">
         <acl name="Moderator"></acl>
