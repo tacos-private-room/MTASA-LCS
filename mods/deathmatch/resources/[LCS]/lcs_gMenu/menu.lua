@@ -333,8 +333,14 @@ end )
 
 -- wait all script loads, then start lcs main menu
 
+preLoadLogo = DGS:dgsCreateImage(0,0,1,1,"memcard.png",true)
+DGS:dgsSetProperty(preLoadLogo,"alignment",{"center","center"})
+exports.lcs_gmenu:showLoadingLabel()
+
 t_loadChek = nil
 function main()
+    destroyElement(preLoadLogo)
+    exports.lcs_gmenu:hideLoadingLabel()
     t_loadChek = setTimer ( function()
         --outputChatBox("asss")
     
@@ -357,7 +363,9 @@ end
 
 -- approximatly waiting timer 
 setTimer(main,65000,1)
-main()
+
+
+
 
 addEventHandler( "onClientResourceStart", getRootElement( ),
     function ( startedRes )

@@ -1,5 +1,4 @@
-﻿showhud = true
-local screenWidth, screenHeight = guiGetScreenSize()
+﻿local screenWidth, screenHeight = guiGetScreenSize()
 root = getRootElement()
 player = getLocalPlayer()
 local wanted = getPlayerWantedLevel(localPlayer)
@@ -141,7 +140,6 @@ end
 
 function LCSRadar()
 	if not bAllValid then return end
-	if not showHUD then return end
 
 	--
 	-- Switch between mask textures every few seconds for DEMO
@@ -201,7 +199,7 @@ end
 
 
 
-local hudTable = { "ammo", "armour", "health", "money", "weapon", "wanted", "breath", "clock" }
+local hudTable = { "ammo", "armour", "health", "money", "weapon", "wanted", "breath", "clock","radar" }
 addEventHandler("onClientResourceStart", resourceRoot,
 	function()
 		-- draw Radar
@@ -213,7 +211,6 @@ addEventHandler("onClientResourceStart", resourceRoot,
 
 		-- Check everything is ok
 		bAllValid = hudMaskShader and radarTexture and maskTexture1 and maskTexture2
-
 		if not bAllValid then
 			outputChatBox( "Could not create some things. Please use debugscript 3" )
 		else

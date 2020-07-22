@@ -1,6 +1,7 @@
 <meta>
-    <script src="ui.lua" type="server"/>
-    <script src="ui_c.lua" type="client"/>
+    <script src="textbox.lua" type="server"/>
+    <script src="textbox_c.lua" type="client"/>
+    <script src="wait_c.lua" type="client"/>
     <script src="bottomrightlabel.lua" type="client"/>
     <file src="back.wav" type="client"/>
     <file src="blip.wav" type="client"/>
@@ -8,4 +9,6 @@
     <export function="showTextBox" type="server" />
     <export function="showTextBox" type="client" />
     <export function="showBottomRightText" type="client" />
+    <export function="hideLoadingLabel" type="client" />
+    <export function="showLoadingLabel" type="client" />
 </meta>
