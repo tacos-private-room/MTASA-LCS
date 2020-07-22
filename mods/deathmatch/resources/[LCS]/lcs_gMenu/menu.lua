@@ -41,6 +41,7 @@ end
 menuYOff = 0.06
 function btn_startGame() 
     outputChatBox("start game")
+    setMenu("HIDDEN",true)
 end
 function btn_options() 
     --outputChatBox("options")
@@ -51,7 +52,7 @@ function btn_credit()
     outputChatBox("credit")
 end
 function btn_exit() 
-    triggerServerEvent ( "server_kickPlayer", resourceRoot, "Hello World!" )
+    triggerServerEvent ( "server_kickPlayer", resourceRoot,getLocalPlayer() )
 end
 
 function btn_audio() 
@@ -237,14 +238,14 @@ function renderTitleScreen()
     setTimer ( function()
         selectMenu = "MAIN_MENU" 
         return menu()
-    end, 5000,0 )
+    end, 5000,1)
 end 
 
-
+bk = nil
 -- backrenders
 function renderBackground() 
     
-    local bk = DGS:dgsCreateImage(0,0,1,1,"frontend_background.png",true)
+    bk = DGS:dgsCreateImage(0,0,1,1,"frontend_background.png",true)
     DGS:dgsSetProperty(bk,"alignment",{"center","center"})
     --[[
     local x,y = guiGetScreenSize ()
@@ -252,8 +253,17 @@ function renderBackground()
     --]]
 end
 
+function hideMenu() 
+    gui_clearMenu()
+    destroyElement(bk)
+    showCursor(false)
+    bk = nil
+end
+
 function menu() 
-    renderBackground() 
+    if bk == nil then 
+        renderBackground() 
+    end
     --render credit
     gui_createdevInfo()
     -- render Main Menu
@@ -270,6 +280,8 @@ function menu()
         return renderLanguageMenu()
     elseif selectMenu == "TITLE_1" or selectMenu == "TITLE_2" then 
         return renderLogoVideo()
+    elseif selectMenu == "HIDDEN" then 
+        return hideMenu()
     end
 
 
@@ -301,7 +313,7 @@ addEventHandler( "onClientKey", root, function(button,press)
             end
         end
     end
-    
+    -- debug key
     if press and button == "k" then
         if isCursorShowing(getLocalPlayer()) then
             showCursor(false)

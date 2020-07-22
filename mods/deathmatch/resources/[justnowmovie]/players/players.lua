@@ -1,12 +1,14 @@
+
 setHeatHaze ( 0 )
-function system_spawnPlayer()
+function system_initPlayerVars()
     -- spawn player
     --spawnPlayer(source,1722.1062,1508.2020,10.8128)
     --spawnPlayer(source,714.0,241.0,4.0)
-    spawnPlayer(source,-744.14739990234,-582.71356201172,8.8197898864746)
+    --spawnPlayer(source,-744.14739990234,-582.71356201172,8.8197898864746)
     -- Time
     setElementData ( source, "time", 10)
     setElementData ( source, "wea", 0)
+    --[[
     -- camera
     fadeCamera(source,true)
     setCameraTarget(source ,source )
@@ -21,6 +23,7 @@ function system_spawnPlayer()
     setTimer ( function(source)
         exports.lcs_ui:showTextBox(source,"Greeting from developer - Nurupo",3000)
     end, 8000, 1,source )
+    --]]
 
 end
 function kill(source)
@@ -70,5 +73,4 @@ function sid(source,cmd,sid)
     outputChatBox("[模型]: 切换模型->"..sid,source)
 end
 addCommandHandler("sid",sid)
-addEventHandler('onPlayerJoin',root,system_spawnPlayer)
-addEventHandler("onPlayerWasted",root, system_spawnPlayer) 
+addEventHandler('onPlayerJoin',root,system_initPlayerVars)

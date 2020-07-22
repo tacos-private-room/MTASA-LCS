@@ -1,0 +1,5 @@
+<meta>
+    <script src="spawn.lua" type="server" />
+
+    <export function="spawnPlayer" type="client"/> 
+</meta>
