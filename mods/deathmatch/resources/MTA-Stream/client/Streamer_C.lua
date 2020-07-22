@@ -35,10 +35,7 @@ function loadMap ( Proccessed,resourceName )
 		if tonumber(data[10]) then
 			local path = ':'..resourceName..'/Content/textures/'..data[2]..'.txd'
 			local texture,cache = requestTextureArchive(path,data[2])
-			local txd = engineImportTXD(texture,data[10])
-			if txd == false then 
-				outputConsole("TXD: ERROR: "..path.." FUCKED!")
-			end
+			engineImportTXD(texture,data[10])
 			table.insert(resource[resourceName],cache)
 		end
 	end)
@@ -48,10 +45,7 @@ function loadMap ( Proccessed,resourceName )
 		if tonumber(data[10]) then
 			local path = ':'..resourceName..'/Content/models/'..data[1]..'.dff'
 			local model,cache = requestModel(path,data[1])
-			local dff = engineReplaceModel(model,data[10],data[5])
-			if dff == false then 
-				outputConsole("DFF: ERROR: "..path.." FUCKED!")
-			end
+			engineReplaceModel(model,data[10],data[5])
 			if tonumber(data[8]) and tonumber(data[9]) then
 				if engineSetModelVisibleTime then
 					engineSetModelVisibleTime(data[10],tonumber(data[9]),tonumber(data[8]))
@@ -63,7 +57,7 @@ function loadMap ( Proccessed,resourceName )
 				end
 			end
 			
-			engineSetModelLODDistance (data[10],tonumber(data[4]))
+			engineSetModelLODDistance (data[10],math.max(tonumber(data[4]),270))
 			
 			table.insert(resource[resourceName],cache)
 		end
@@ -76,8 +70,9 @@ addEventHandler( "MTAStream_Client", localPlayer, loadMap )
 
 function loadedFunction (resourceName)
 	local endTickCount = getTickCount ()-startTickCount
-	triggerServerEvent ( "onPlayerLoad", resourceRoot, tostring(endTickCount),resourceName )
+	triggerServerEvent ( "onPlayerLoad", root, tostring(endTickCount),resourceName )
 	createTrayNotification( 'You have finished loading : '..resourceName, "info" )
+	outputChatBox('You have finished loading : '..resourceName, "info")
 end
 
 function requestTextureArchive(path)
@@ -140,7 +135,7 @@ function forceLoad(data,resourceName)
 				end
 			end
 			table.insert(resource[resourceName],cache)
-			engineSetModelLODDistance (data[10],tonumber(data[4]))
+			engineSetModelLODDistance (data[10],math.max(tonumber(data[4]),270))
 		end
 	end
 end

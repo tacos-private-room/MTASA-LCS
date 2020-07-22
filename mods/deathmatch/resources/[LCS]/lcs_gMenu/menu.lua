@@ -2,6 +2,7 @@
 -- Selected: #FFFFFF
 -- Normal: #78aafa
 
+loaded = false
 DGS = exports.dgs
 
 -- LCS COLOR:
@@ -42,6 +43,7 @@ menuYOff = 0.06
 function btn_startGame() 
     outputChatBox("start game")
     setMenu("HIDDEN",true)
+    exports.lcs_game:c_spawn(getLocalPlayer())
 end
 function btn_options() 
     --outputChatBox("options")
@@ -213,6 +215,9 @@ function renderLanguageMenu()
 
 end
 
+
+
+
 function renderLogoVideo()
     local browser = DGS:dgsCreateMediaBrowser(256,256) --Create Multi Media Browser
     local image = DGS:dgsCreateImage(0,0,1,1,browser,true)  --Apply the browser to a dgs-dximage
@@ -227,8 +232,9 @@ function renderLogoVideo()
     end
 
     DGS:dgsMediaPlay(browser)
-
 end
+
+
 
 function renderTitleScreen() 
     local title_src = DGS:dgsCreateImage(0,0,1,1,"title.png",true)
@@ -288,8 +294,6 @@ function menu()
 end
 -- Menu item handler 
 
-menu()
-
 
 --addEventHandler("onClientRender", root, renderBackground)
 
@@ -297,6 +301,7 @@ menu()
 
 addEventHandler( "onClientKey", root, function(button,press) 
     -- deal with opening video
+    if loaded == false then return end
     if selectMenu == "TITLE_1" or selectMenu == "TITLE_2" then 
         if press and button == "mouse1" then 
             if selectMenu == "TITLE_1" then 
@@ -326,4 +331,36 @@ addEventHandler( "onClientKey", root, function(button,press)
     return false
 end )
 
+-- wait all script loads, then start lcs main menu
 
+t_loadChek = nil
+function main()
+    t_loadChek = setTimer ( function()
+        --outputChatBox("asss")
+    
+		local res = getResourceFromName( "MTA-Stream" )
+        if not res == false then 
+            
+            local status = getResourceState ( res ) 
+            
+            if status == "running" then 
+                selectMenu = "TITLE_1"
+                loaded = true
+                killTimer(t_loadChek)
+                menu()
+            end
+
+        end
+    end, 1000, 0 )
+    
+end
+
+-- approximatly waiting timer 
+setTimer(main,65000,1)
+main()
+
+addEventHandler( "onClientResourceStart", getRootElement( ),
+    function ( startedRes )
+        outputConsole( "Resource started: " .. getResourceName( startedRes ) );
+    end
+);

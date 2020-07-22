@@ -5,6 +5,7 @@
 ----------------------------------------------------------------
 -- onClientResourceStart
 ----------------------------------------------------------------
+showHUD = true
 addEventHandler( "onClientResourceStart", resourceRoot,
 	function()
 		setPlayerHudComponentVisible ( "radar", false )
@@ -33,6 +34,7 @@ addEventHandler( "onClientResourceStart", resourceRoot,
 addEventHandler( "onClientRender", root,
     function()
 		if not bAllValid then return end
+		if not showHUD then return end
 
 		--
 		-- Switch between mask textures every few seconds for DEMO
@@ -102,4 +104,8 @@ function convertFitRatio(gX, gY, gW, gH)
 	local aW = sX * rW
 	local aH = sY * rH
 	return aX, aY, aW, aH
+end
+
+function showHud(status) 
+	showHUD = status
 end

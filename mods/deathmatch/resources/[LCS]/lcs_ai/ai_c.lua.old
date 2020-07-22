@@ -306,8 +306,8 @@ function aiDebugLogic(raycast_l,raycast_m,raycast_r,raycast_sl,raycast_sr,raycas
             end
 
             if raycast_l and raycast_r and raycast_sl and raycast_sr then
-                setPedControlState ("vehicle_left", false )
-                setPedControlState ("vehicle_right", false )
+                setControlState ("vehicle_left", false )
+                setControlState ("vehicle_right", false )
 
             else
                 if not raycast_l or not raycast_l and not raycast_m then
@@ -333,15 +333,15 @@ function controlForward(player)
     local vehPtr = getPedOccupiedVehicle(player)
     if getElementSpeed(vehPtr) < speedLimit then
         --outputChatBox("[AI]: w")
-        setPedControlState ('accelerate', true)
-        setPedControlState ("brake_reverse", false )
-        setPedControlState ("handbrake", false )
+        setControlState ('accelerate', true)
+        setControlState ("brake_reverse", false )
+        setControlState ("handbrake", false )
         aiDriveDecision = "FORWARD HOLD"
     else
         --outputChatBox("[AI]: s")
-        setPedControlState ('accelerate', false)
-        setPedControlState ("brake_reverse", false )
-        setPedControlState ("handbrake", false )
+        setControlState ('accelerate', false)
+        setControlState ("brake_reverse", false )
+        setControlState ("handbrake", false )
         --setControlState ("brake_reverse", true )
         --setControlState ("handbrake", true )
         aiDriveDecision = "FORWARD RELE"
@@ -351,26 +351,26 @@ function controlBreak(player)
     local vehPtr = getPedOccupiedVehicle(player)
     if getElementSpeed(vehPtr) > 0 then
         --outputChatBox("[AI]: w")
-        setPedControlState ('accelerate', false)
-        setPedControlState ("brake_reverse", true )
-        setPedControlState ("handbrake", true )
+        setControlState ('accelerate', false)
+        setControlState ("brake_reverse", true )
+        setControlState ("handbrake", true )
         aiDriveDecision = "BRAKE HOLD"
     end
 end
 function controlLeft(player)
-    setPedControlState ("vehicle_left", true )
-    setPedControlState ("vehicle_right ", false )
+    setControlState ("vehicle_left", true )
+    setControlState ("vehicle_right ", false )
     aiDriveDecision = "LEFT HOLD"
 end
 function controlRight(player)
-    setPedControlState ("vehicle_right", true )
-    setPedControlState ("vehicle_left", false )
+    setControlState ("vehicle_right", true )
+    setControlState ("vehicle_left", false )
     aiDriveDecision = "RIGHT HOLD"
 end
 
 function controlBackward(player)
-    setPedControlState ("brake_reverse", true )
-    setPedControlState ('accelerate', false)
+    setControlState ("brake_reverse", true )
+    setControlState ('accelerate', false)
     aiDriveDecision = "BACKWARD HOLD"
     --outputChatBox("[AI]:s back")
 end
@@ -381,11 +381,11 @@ function toogleAiDebug(cmd)
         outputChatBox("[AI]: 切换-> YES")
     else
         outputChatBox("[AI]: 切换-> NO")
-        setPedControlState ('accelerate', false)
-        setPedControlState ("brake_reverse", false )
-        setPedControlState ("handbrake", false )
-        setPedControlState ("vehicle_right", false )
-        setPedControlState ("vehicle_left", false )
+        setControlState ('accelerate', false)
+        setControlState ("brake_reverse", false )
+        setControlState ("handbrake", false )
+        setControlState ("vehicle_right", false )
+        setControlState ("vehicle_left", false )
     end
 end
 addCommandHandler ( "ai", toogleAiDebug )
