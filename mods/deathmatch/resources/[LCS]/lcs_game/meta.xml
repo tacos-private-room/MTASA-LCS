@@ -1,6 +1,0 @@
-<meta>
-    <script src="spawn_s.lua" type="server" />
-    <script src="spawn.lua" type="client" />
-
-    <export function="c_spawn" type="client"/> 
-</meta>

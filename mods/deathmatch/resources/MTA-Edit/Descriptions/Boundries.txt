@@ -1,5 +1,0 @@
-Boundries that show up around
-elements
-
-- Hightlight highlights the elements
-- Bounding shows the bounding box

@@ -1,0 +1,2089 @@
+objs
+2555, sublandpart22, newprojectland, 1, 290, 0
+2556, sublandpart20, shore_land_gen, 1, 290, 0
+2557, landpart15, subvillabits, 1, 290, 0
+2558, observatory_temp, nipple, 1, 290, 0
+2559, wal_1, shore_land_gen, 1, 200, 0
+2560, tunent4, shore_land_gen, 1, 200, 0
+2561, tunent5, shore_land_gen, 1, 290, 1
+2562, wal_2, shore_land_gen, 1, 200, 0
+2563, landpart16, shore_land_gen, 1, 290, 0
+2564, shedge1, sub_villas, 1, 290, 0
+2565, decking3, sub_villas, 1, 200, 0
+2566, decking1, sub_villas, 1, 200, 0
+2567, forsalesign3, subvillabits, 1, 200, 0
+2568, mailbox2, subvillabits, 1, 200, 0
+2569, mailbox6, subvillabits, 1, 200, 0
+2570, mailbox5, subvillabits, 1, 200, 0
+2571, mailbox1, sub_villas, 1, 50, 0
+2572, landpart11, sub_villas, 1, 290, 0
+2573, landpart12, sub_villas, 1, 290, 0
+2574, landpart13, sub_villas, 1, 290, 0
+2575, shedge2, sub_villas, 1, 290, 0
+2576, shedge3, sub_villas, 1, 290, 0
+2577, shedge4, sub_villas, 1, 290, 0
+2578, shedge5, sub_villas, 1, 290, 0
+2579, subpro_bridge, sub_probridge, 1, 200, 0
+2580, parkinglines1, shore_land_gen, 1, 200, 0
+2581, parkinglines2, shore_land_gen, 1, 200, 0
+2582, parkinglines3, shore_land_gen, 1, 200, 0
+2583, projectland1, newprojectland, 1, 290, 0
+2584, projwall1, sub_projects, 1, 200, 0
+2585, projwall2, sub_projects, 1, 290, 0
+2586, tunnel1, subtunl10, 1, 290, 0
+2587, landpart23, shore_land_gen, 1, 290, 0
+2588, landpart25, shore_land_gen, 1, 290, 0
+2589, landpart26, shore_land_gen, 1, 290, 0
+2590, projwall12, sub_projects, 1, 290, 0
+2591, projwall13, sub_projects, 1, 290, 0
+2592, projwall21, sub_projects, 1, 290, 0
+2593, projwall22, sub_projects, 1, 290, 0
+2594, garage7, colmansion, 1, 200, 1
+2595, columansion_wall, colmansion, 1, 290, 4
+2596, Dam_pod2, dam, 1, 290, 5
+2597, gate_small3, sub_villas, 1, 200, 0
+2598, shedge6, sub_villas, 1, 290, 0
+2599, projbridgewall1, sub_probridge, 1, 200, 0
+2600, projbridgewall2, sub_probridge, 1, 200, 0
+2601, Pumpfirescape, pumphouse, 1, 200, 0
+2602, Pumphouse, pumphouse, 1, 270, 0
+2603, LODphouse, SUB_LOD_DAM, 1, 3500, 0
+2604, LODurbbridge1, suburb2, 1, 3500, 0
+2605, LOD_base, SUB_LOD_DAM, 1, 3500, 0
+2606, LOD_GOD_DAM, SUB_LOD_DAM, 1, 3500, 0
+2607, golf13, shore_land_gen, 1, 290, 0
+2608, landpart7, shore_land_gen, 1, 290, 0
+2609, landpart_mount4, shore_land_gen, 1, 290, 0
+2610, landpart_mount3, shore_land_gen, 1, 290, 0
+2611, landpart_mount2, shore_land_gen, 1, 290, 0
+2612, clif22, clif22, 1, 290, 0
+2613, LODf22, suburb1, 1, 3500, 0
+2614, LODdpart7, suburb1, 1, 3500, 0
+2615, LODdpart_mount3, suburb1, 1, 3500, 0
+2616, LODdpart_mount4, suburb1, 1, 3500, 0
+2617, LODf13, suburb1, 1, 3500, 0
+2618, LODdpart_mount2, suburb1, 1, 3500, 0
+2619, landpart_mount1, shore_land_gen, 1, 290, 0
+2620, clif12_2, shore_land_gen, 1, 290, 0
+2621, LODdpart_mount1, suburb1, 1, 3500, 0
+2622, LODf12_22, suburb1, 1, 3500, 0
+2623, LODf12, suburb1, 1, 3500, 0
+2624, landpart21, shore_land_gen, 1, 290, 0
+2625, clif21, shore_land_gen, 1, 290, 0
+2626, clif20, shore_land_gen, 1, 290, 0
+2627, clif19, shore_land_gen, 1, 290, 0
+2628, landpart17, shore_land_gen, 1, 290, 0
+2629, LODdpart17, suburb1, 1, 3500, 0
+2630, parkpath1, shore_land_gen, 1, 290, 0
+2631, pathpark2, shore_land_gen, 1, 290, 0
+2632, clif15, shore_land_gen, 1, 290, 0
+2633, clif16, shore_land_gen, 1, 290, 0
+2634, clif17, shore_land_gen, 1, 290, 0
+2635, clif18, shore_land_gen, 1, 290, 0
+2636, clif14, shore_land_gen, 1, 290, 0
+2637, landpart19, shore_land_gen, 1, 290, 0
+2638, landpart18, shore_land_gen, 1, 290, 0
+2639, LOD_pod1, SUB_LOD_DAM, 1, 3500, 0
+2640, LODf21, suburb1, 1, 3500, 0
+2641, LODdpart18, suburb1, 1, 3500, 0
+2642, LODdpart14, suburb1, 1, 3500, 0
+2643, LODdpart10, suburb1, 1, 3500, 0
+2644, LODf20, suburb1, 1, 3500, 0
+2645, LODf19, suburb1, 1, 3500, 0
+2646, LODdpart16, suburb1, 1, 3500, 0
+2647, LODdpart21, suburb1, 1, 3500, 0
+2648, LODhpark2, suburb1, 1, 3500, 0
+2649, LODkpath1, suburb1, 1, 3500, 0
+2650, LODdpart11, suburb1, 1, 3500, 0
+2651, LODdpart12, suburb1, 1, 3500, 0
+2652, LODdpart13, suburb1, 1, 3500, 0
+2653, LODdpart15, suburb1, 1, 3500, 0
+2654, LODlandpart20, suburb1, 1, 3500, 0
+2655, LODjectland1, suburb1, 1, 3500, 0
+2656, LODlandpart24, suburb1, 1, 3500, 0
+2657, LODlandpart22, suburb1, 1, 3500, 0
+2658, LODdpart25, suburb1, 1, 3500, 0
+2659, LODdpart26, suburb1, 1, 3500, 0
+2660, LODf18, suburb1, 1, 3500, 0
+2661, LODf17, suburb1, 1, 3500, 0
+2662, LODf16, suburb1, 1, 3500, 0
+2663, LODf15, suburb1, 1, 3500, 0
+2664, LODf14, suburb1, 1, 3500, 0
+2665, LODdpart19, suburb1, 1, 3500, 0
+2666, LOD_pod2, SUB_LOD_DAM, 1, 3500, 0
+2667, towernew1, sub_projects, 1, 290, 0
+2668, LODernew1, suburb2, 1, 3500, 0
+2669, towerflat26, sub_projects, 1, 290, 0
+2670, LODerflat26, suburb2, 1, 3500, 0
+2671, LODerflat28, suburb2, 1, 3500, 0
+2672, LODerflat29, suburb2, 1, 3500, 0
+2673, LODerflat27, suburb2, 1, 3500, 0
+2674, clif1, shore_land_gen, 1, 290, 0
+2675, mount8, shore_land_gen, 1, 290, 0
+2676, mount7, shore_land_gen, 1, 290, 0
+2677, LODnt7, suburb1, 1, 3500, 0
+2678, mount6, shore_land_gen, 1, 290, 0
+2679, LODnt6, suburb1, 1, 3500, 0
+2680, mount5, shore_land_gen, 1, 290, 0
+2681, LODnt5, suburb1, 1, 3500, 0
+2682, LOD_subroads44, suburb1, 1, 3500, 0
+2683, LOD_subroads48, suburb1, 1, 3500, 0
+2684, LOD_subroads47, suburb1, 1, 3500, 0
+2685, LOD_subroads28, suburb1, 1, 3500, 0
+2686, LOD_subroads29, suburb1, 1, 3500, 0
+2687, LOD_subroads30, suburb1, 1, 3500, 0
+2688, LOD_subroads37, suburb1, 1, 3500, 0
+2689, LOD_subroads38, suburb1, 1, 3500, 0
+2690, LOD_subroads39, suburb1, 1, 3500, 0
+2691, LOD_subroads40, suburb1, 1, 3500, 0
+2692, LOD_subroads41, suburb1, 1, 3500, 0
+2693, LOD_subroads42, suburb1, 1, 3500, 0
+2694, LOD_subroads43, suburb1, 1, 3500, 0
+2695, LOD_subroads45, suburb1, 1, 3500, 0
+2696, LOD_subroads46, suburb1, 1, 3500, 0
+2697, LOD_subroads86, suburb1, 1, 3500, 0
+2698, LOD_subroads87, suburb1, 1, 3500, 0
+2699, LOD_subroads49, suburb1, 1, 3500, 0
+2700, LOD_subroads50, suburb1, 1, 3500, 0
+2701, LOD_subroads51, suburb1, 1, 3500, 0
+2702, LOD_subroads52, suburb1, 1, 3500, 0
+2703, LOD_subroads53, suburb1, 1, 3500, 0
+2704, LOD_subroads54, suburb1, 1, 3500, 0
+2705, LOD_subroads55, suburb1, 1, 3500, 0
+2706, LOD_subroads56, suburb1, 1, 3500, 0
+2707, LOD_subroads57, suburb1, 1, 3500, 0
+2708, LOD_subroads58, suburb1, 1, 3500, 0
+2709, LOD_subroads59, suburb1, 1, 3500, 0
+2710, LOD_subroads60, suburb1, 1, 3500, 0
+2711, LOD_subroads61, suburb1, 1, 3500, 0
+2712, LOD_subroads62, suburb1, 1, 3500, 0
+2713, LOD_subroads63, suburb1, 1, 3500, 0
+2714, LOD_subroads64, suburb1, 1, 3500, 0
+2715, LOD_subroads65, suburb1, 1, 3500, 0
+2716, LOD_subroads66, suburb1, 1, 3500, 0
+2717, LOD_subroads67, suburb1, 1, 3500, 0
+2718, LOD_subroads68, suburb1, 1, 3500, 0
+2719, LOD_subroads69, suburb1, 1, 3500, 0
+2720, LOD_subroads70, suburb1, 1, 3500, 0
+2721, LOD_subroads71, suburb1, 1, 3500, 0
+2722, LOD_subroads72, suburb1, 1, 3500, 0
+2723, LOD_subroads73, suburb1, 1, 3500, 0
+2724, LOD_subroads74, suburb1, 1, 3500, 0
+2725, LOD_subroads75, suburb1, 1, 3500, 0
+2726, LOD_subroads76, suburb1, 1, 3500, 0
+2727, LOD_subroads77, suburb1, 1, 3500, 0
+2728, LOD_subroads78, suburb1, 1, 3500, 0
+2729, LOD_subroads79, suburb1, 1, 3500, 0
+2730, LOD_subroads80, suburb1, 1, 3500, 0
+2731, LOD_subroads81, suburb1, 1, 3500, 0
+2732, LOD_subroads82, suburb1, 1, 3500, 0
+2733, LOD_subroads83, suburb1, 1, 3500, 0
+2734, LOD_subroads84, suburb1, 1, 3500, 0
+2735, LOD_subroads85, suburb1, 1, 3500, 0
+2736, Tunl_Junc_Road02, shore_land_gen, 1, 200, 1
+2737, LODsion2, suburb1, 1, 3500, 0
+2738, LODsion3, suburb1, 1, 3500, 0
+2739, LODsion4, suburb2, 1, 3500, 0
+2740, LODsion5, suburb2, 1, 3500, 0
+2741, LODsion6, suburb2, 1, 3500, 0
+2742, LODdge6, suburb2, 1, 3500, 0
+2743, LODdge1, suburb2, 1, 3500, 0
+2744, LODdge3, suburb2, 1, 3500, 0
+2745, LODdge4, suburb2, 1, 3500, 0
+2746, LODdge5, suburb2, 1, 3500, 0
+2747, LODdge2, suburb2, 1, 3500, 0
+2748, cliffwall06, cliffwall, 1, 290, 0
+2749, cliffwall02, cliffwall, 1, 290, 0
+2750, cliffwall03, cliffwall, 1, 290, 0
+2751, cliffwall04, cliffwall, 1, 290, 0
+2752, cliffwall05, cliffwall, 1, 290, 0
+2753, cliffwall01, cliffwall, 1, 290, 0
+2754, cliffwall07, cliffwall, 1, 290, 0
+2755, cliffwall08, cliffwall, 1, 290, 0
+2756, cliffwall09, cliffwall, 1, 290, 0
+2757, cliffwall10, cliffwall, 1, 290, 0
+2758, cliffwall11, cliffwall, 1, 290, 0
+2759, view_carpark, subcarparc, 1, 290, 1
+2760, LODnel1, suburb1, 1, 3500, 0
+2761, newroadsec01, shore_land_gen, 1, 220, 1
+2762, newroadsec02, shore_land_gen, 1, 100, 1
+2763, Security_Hut, securityhut, 1, 200, 5
+2764, Tunl_Junc_Road03, shore_land_gen, 1, 200, 1
+2765, Tunl_Junc_Road01, shore_land_gen, 1, 200, 1
+2766, damfence04, damfence, 1, 100, 4
+2767, damfence01, damfence, 1, 100, 4
+2768, damfence02, damfence, 1, 100, 4
+2769, damfence03, damfence, 1, 100, 4
+2770, damfence05, damfence, 1, 290, 4
+2771, damfence07, damfence, 1, 290, 4
+2772, damfence06, damfence, 1, 290, 4
+2773, Mansion_feature, colmansion, 1, 290, 0
+2774, New_Colmansn, colmansion, 1, 290, 1
+2775, towergaragedoor3, projbits, 1, 100, 0
+2776, landpart_mount22, shore_land_gen, 1, 290, 0
+2777, landpart_mount33, shore_land_gen, 1, 290, 0
+2778, clif12_22, shore_land_gen, 1, 290, 0
+2779, clif12_23, shore_land_gen, 1, 290, 0
+2780, landpart_mount44, shore_land_gen, 1, 290, 0
+2781, LODf1, suburb1, 1, 3500, 0
+2782, LODnt8, suburb1, 1, 3500, 0
+2783, towerflat27, sub_projects, 1, 290, 0
+2784, towerflat28, sub_projects, 1, 290, 0
+2785, towerflat29, sub_projects, 1, 290, 0
+2786, suburbansigns4, localsignsub, 1, 100, 0
+2787, suburbansigns6, localsignsub, 1, 100, 0
+2788, suburbansigns5, localsignsub, 1, 100, 0
+2789, mansion5, sub_villas, 1, 290, 0
+2790, mansion6, sub_villas, 1, 290, 0
+2791, mansion4, sub_villas, 1, 290, 0
+2792, mansion3, sub_villas, 1, 290, 0
+2793, mansion2, sub_villas, 1, 270, 0
+2794, mansion1, sub_villas, 1, 270, 1
+2795, LODdpart18a, suburb1, 1, 3500, 0
+2796, landpart18a, shore_land_gen, 1, 290, 0
+2797, clif2, shore_land_gen, 1, 290, 0
+2798, telepole, nipple, 1, 290, 68
+2799, telepole01, nipple, 1, 290, 68
+2800, telepole02, nipple, 1, 290, 68
+2801, telepole03, nipple, 1, 290, 68
+2802, telepole04, nipple, 1, 290, 68
+2803, newtreepatch_sub, sub_trees, 1, 299, 4
+2804, LODf2, suburb1, 1, 3500, 0
+2805, LODl_tunnel2, suburb1, 1, 3500, 0
+2806, LODl_tunnel1, suburb1, 1, 3500, 0
+2807, round_bit, damentrance, 1, 290, 1
+2808, LODnd_bit, suburb1, 1, 3500, 0
+2809, newtrees1_sub, sub_trees, 1, 299, 4
+2810, LODent3, suburb1, 1, 3500, 0
+2811, LODent4, suburb1, 1, 3500, 0
+2812, LODdpart_mount33, suburb1, 1, 3500, 0
+2813, damfence08, damfence, 1, 290, 4
+2814, treepatchnew_sub, sub_trees, 1, 299, 4
+2815, treepatch25_sub, sub_trees, 1, 299, 4
+2816, treepatch01_sub, sub_trees, 1, 299, 4
+2817, treepatch02_sub, sub_trees, 1, 299, 4
+2818, treepatch03_sub, sub_trees, 1, 299, 4
+2819, treepatch04_sub, sub_trees, 1, 299, 4
+2820, treepatch05_sub, sub_trees, 1, 299, 4
+2821, treepatch06_sub, sub_trees, 1, 299, 4
+2822, treepatch07_sub, sub_trees, 1, 299, 4
+2823, treepatch08_sub, sub_trees, 1, 299, 4
+2824, treepatch09_sub, sub_trees, 1, 299, 4
+2825, treepatch10_sub, sub_trees, 1, 299, 4
+2826, treepatch27_sub, sub_trees, 1, 299, 4
+2827, treepatch26_sub, sub_trees, 1, 299, 4
+2828, treepatch31_sub, sub_trees, 1, 299, 4
+2829, treepatch32_sub, sub_trees, 1, 299, 4
+2830, treepatch34_sub, sub_trees, 1, 299, 4
+2831, treepatch35_sub, sub_trees, 1, 299, 4
+2832, treepatch30_sub, sub_trees, 1, 299, 4
+2833, treepatch29_sub, sub_trees, 1, 299, 4
+2834, treepatch28_sub, sub_trees, 1, 299, 4
+2835, LODf12_23, suburb1, 1, 3500, 0
+2836, LODdpart_mount44, suburb1, 1, 3500, 0
+2837, apTerminalback, airporterminal3, 1, 290, 0
+2838, air_planeroad1, airgrndb, 1, 290, 1
+2839, air_grnd04, airgrndb, 1, 290, 1
+2840, landpart87, shore_land_gen, 1, 290, 0
+2841, landpart86, shore_land_gen, 1, 290, 0
+2842, landpart85, shore_land_gen, 1, 290, 0
+2843, landpart89, shore_land_gen, 1, 200, 0
+2844, landpart88, shore_land_gen, 1, 290, 0
+2845, splay_tunent01, airgrndb, 1, 200, 0
+2846, splay_tunent02, airgrndb, 1, 200, 0
+2847, air_srway_02, airgrndb, 1, 290, 1
+2848, air_smalldetail, airgrndb, 1, 200, 68
+2849, air_grnd02, airgrndb, 1, 290, 1
+2850, air_planeroad2, airgrndb, 1, 290, 1
+2851, air_grnd06, airgrndb, 1, 290, 1
+2852, air_grnd05, airgrndb, 1, 290, 1
+2853, air_brway_01, airgrndb, 1, 299, 1
+2854, air_brway_02, airgrndb, 1, 299, 1
+2855, landpart107, shore_land_gen, 1, 200, 0
+2856, air_planeroad4, airgrndb, 1, 290, 1
+2857, air_planeroad3, airgrndb, 1, 290, 1
+2858, air_grnd14, airporterminal, 1, 290, 1
+2859, LOD_grnd10, SUB_LOD_AIR, 1, 3500, 0
+2860, LOD_grnd12, SUB_LOD_AIR, 1, 3500, 0
+2861, landpart110, shore_land_gen, 1, 200, 0
+2862, sub_ind03, subind34, 1, 200, 0
+2863, fuel9, subcanister, 1, 200, 0
+2864, fuel4, subcanister, 1, 200, 0
+2865, doc_shedbig31, subuild10, 1, 200, 0
+2866, doc_shedbig12, subuild8, 1, 200, 1
+2867, dam_road1, dam, 1, 200, 0
+2868, caparwall3, airgrndb, 1, 200, 0
+2869, parsign1, airgrndb, 1, 200, 0
+2870, LODport_carpark, SUB_LOD_AIR, 1, 3500, 0
+2871, parsign2, airgrndb, 1, 200, 4
+2872, Airportroad06, airgrndb, 1, 290, 1
+2873, clif23, clif22, 1, 290, 0
+2874, clif26, clif22, 1, 290, 0
+2875, clif24, shore_land_gen, 1, 290, 0
+2876, LODf23, suburb1, 1, 3500, 0
+2877, LODf24, suburb1, 1, 3500, 0
+2878, LODf26, suburb1, 1, 3500, 0
+2879, landpart104, shore_land_gen, 1, 290, 0
+2880, LODdpart104, SUB_LOD_AIR, 1, 3500, 0
+2881, landpart98, shore_land_gen, 1, 290, 0
+2882, landpart101, shore_land_gen, 1, 290, 0
+2883, LODdpart101, SUB_LOD_AIR, 1, 3500, 0
+2884, landpart102, shore_land_gen, 1, 290, 0
+2885, landpart103, shore_land_gen, 1, 290, 0
+2886, landpart97, shore_land_gen, 1, 290, 0
+2887, LODdpart97, SUB_LOD_AIR, 1, 3500, 0
+2888, landpart105, shore_land_gen, 1, 290, 0
+2889, LODdpart105, SUB_LOD_AIR, 1, 3500, 0
+2890, landpart106, shore_land_gen, 1, 290, 0
+2891, LODdpart106, SUB_LOD_AIR, 1, 3500, 0
+2892, clif28, shore_land_gen, 1, 290, 0
+2893, landpart96, shore_land_gen, 1, 290, 0
+2894, landpart95, shore_land_gen, 1, 290, 0
+2895, landpart94, shore_land_gen, 1, 290, 0
+2896, landpart93, shore_land_gen, 1, 290, 0
+2897, landpart92, shore_land_gen, 1, 290, 0
+2898, landpart91, shore_land_gen, 1, 290, 0
+2899, clif6, shore_land_gen, 1, 290, 0
+2900, LODf6, SUB_LOD_AIR, 1, 3500, 0
+2901, landpart30, shore_land_gen, 1, 290, 0
+2902, clif27, shore_land_gen, 1, 290, 0
+2903, doc_shedbig13, subuild7, 1, 200, 1
+2904, LODf27, suburb1, 1, 3500, 0
+2905, LODdpart30, suburb1, 1, 3500, 0
+2906, LODdpart103, SUB_LOD_AIR, 1, 3500, 0
+2907, LODdpart102, SUB_LOD_AIR, 1, 3500, 0
+2908, LODdpart98, SUB_LOD_AIR, 1, 3500, 0
+2909, LODdpart95, SUB_LOD_AIR, 1, 3500, 0
+2910, LODdpart94, SUB_LOD_AIR, 1, 3500, 0
+2911, LODdpart93, SUB_LOD_AIR, 1, 3500, 0
+2912, LODdpart92, SUB_LOD_AIR, 1, 3500, 0
+2913, clif3, shore_land_gen, 1, 290, 0
+2914, clif5, shore_land_gen, 1, 290, 0
+2915, clif4, shore_land_gen, 1, 290, 0
+2916, LODf4, suburb1, 1, 3500, 0
+2917, LODf5, suburb1, 1, 3500, 0
+2918, LODf3, suburb1, 1, 3500, 0
+2919, landpart100, airgrndb, 1, 200, 0
+2920, landpart99, airgrndb, 1, 200, 0
+2921, subind_build03, subuild3, 1, 250, 0
+2922, LODind_build03, suburb2, 1, 3500, 0
+2923, subind_build07, subuild4, 1, 200, 0
+2924, LODind_build07, suburb1, 1, 3500, 0
+2925, LOD_shedbig31, suburb1, 1, 3500, 0
+2926, LOD_shedbig12, suburb1, 1, 3500, 0
+2927, LOD_ind26, suburb1, 1, 3500, 0
+2928, LOD_shedbig13, suburb2, 1, 3500, 0
+2929, LOD_grnd06, SUB_LOD_AIR, 1, 3500, 0
+2930, LOD_grnd05, SUB_LOD_AIR, 1, 3500, 0
+2931, LOD_grnd04, SUB_LOD_AIR, 1, 3500, 0
+2932, LOD_grnd01, SUB_LOD_AIR, 1, 3500, 0
+2933, LODdpart88, SUB_LOD_AIR, 1, 3500, 0
+2934, LODdpart87, SUB_LOD_AIR, 1, 3500, 0
+2935, LODdpart86, SUB_LOD_AIR, 1, 3500, 0
+2936, LODdpart85, SUB_LOD_AIR, 1, 3500, 0
+2937, LOD_grnd02, SUB_LOD_AIR, 1, 3500, 0
+2938, LOD_grnd03, SUB_LOD_AIR, 1, 3500, 0
+2939, LODdpart107, SUB_LOD_AIR, 1, 3500, 0
+2940, LOD_planeroad4, SUB_LOD_AIR, 1, 3500, 0
+2941, LODir_terminal, SUB_LOD_AIR, 1, 3500, 0
+2942, LOD_grnd09, SUB_LOD_AIR, 1, 3500, 0
+2943, LOD_grnd11, SUB_LOD_AIR, 1, 3500, 0
+2944, LODdpart100, SUB_LOD_AIR, 1, 3500, 0
+2945, LODerminalback, SUB_LOD_AIR, 1, 3500, 0
+2946, LOD_grnd13, SUB_LOD_AIR, 1, 3500, 0
+2947, airport_carpark, aircarpark, 1, 200, 1
+2948, subntrance_sub2, SUB_SUB_ENT, 1, 100, 0
+2949, subentrance_sub1, subway1, 1, 100, 0
+2950, LODdpart91, SUB_LOD_AIR, 1, 3500, 0
+2951, LODdpart99, SUB_LOD_AIR, 1, 3500, 0
+2952, LOD_subway, SUB_LOD_AIR, 1, 3500, 0
+2953, LODdpart110, SUB_LOD_AIR, 1, 3500, 0
+2954, LODdpart90, SUB_LOD_AIR, 1, 3500, 0
+2955, subind_build06, subuild1, 1, 200, 0
+2956, LODind_build06, suburb1, 1, 3500, 0
+2957, LOD_indland08, suburb2, 1, 3500, 0
+2958, subind_build01, subuild6, 1, 290, 0
+2959, LODind_build01, suburb2, 1, 3500, 0
+2960, LODerminalfront, SUB_LOD_AIR, 1, 2999, 0
+2961, LOD_subroads02, SUB_LOD_AIR, 1, 3500, 0
+2962, LOD_subroads03, SUB_LOD_AIR, 1, 3500, 0
+2963, LOD_subroads04, SUB_LOD_AIR, 1, 3500, 0
+2964, LOD_subroads05, SUB_LOD_AIR, 1, 3500, 0
+2965, LOD_subroads06, SUB_LOD_AIR, 1, 3500, 0
+2966, LOD_subroads07, SUB_LOD_AIR, 1, 3500, 0
+2967, LOD_subroads10, suburb1, 1, 3500, 0
+2968, LOD_subroads11, suburb1, 1, 3500, 0
+2969, LOD_subroads12, suburb1, 1, 3500, 0
+2970, LOD_subroads13, suburb1, 1, 3500, 0
+2971, LOD_subroads14, suburb1, 1, 3500, 0
+2972, LOD_subroads15, suburb1, 1, 3500, 0
+2973, LOD_subroads16, suburb1, 1, 3500, 0
+2974, LOD_subroads17, suburb1, 1, 3500, 0
+2975, LOD_subroads18, suburb1, 1, 3500, 0
+2976, LOD_subroads19, suburb1, 1, 3500, 0
+2977, LOD_subroads20, suburb1, 1, 3500, 0
+2978, LOD_subroads21, suburb1, 1, 3500, 0
+2979, LOD_subroads22, suburb1, 1, 3500, 0
+2980, LOD_subroads23, suburb1, 1, 3500, 0
+2981, LOD_subroads24, suburb1, 1, 3500, 0
+2982, LOD_subroads25, suburb1, 1, 3500, 0
+2983, LOD_subroads26, suburb1, 1, 3500, 0
+2984, LOD_subroads27, suburb1, 1, 3500, 0
+2985, LOD_subroads31, suburb1, 1, 3500, 0
+2986, LOD_subroads32, suburb1, 1, 3500, 0
+2987, LOD_subroads33, suburb1, 1, 3500, 0
+2988, LOD_subroads34, suburb1, 1, 3500, 0
+2989, LOD_subroads35, suburb1, 1, 3500, 0
+2990, LOD_subroads36, suburb1, 1, 3500, 0
+2991, LOD_subroads09, suburb1, 1, 3500, 0
+2992, LOD_subroads08, SUB_LOD_AIR, 1, 3500, 0
+2993, newroadsec1, shore_land_gen, 1, 100, 0
+2994, Broken_bridge, brokenbridge, 1, 290, 0
+2995, treepatch17_sub, sub_trees, 1, 299, 4
+2996, treepatch24_sub, sub_trees, 1, 299, 4
+2997, treepatch18_sub, sub_trees, 1, 299, 4
+2998, treepatch20_sub, sub_trees, 1, 299, 4
+2999, treepatch21_sub, sub_trees, 1, 299, 4
+3000, treepatch23_sub, sub_trees, 1, 299, 4
+3001, treepatch22_sub, sub_trees, 1, 299, 4
+3002, treepatch19_sub, sub_trees, 1, 299, 4
+3003, treepatch16_sub, sub_trees, 1, 299, 4
+3004, treepatch15_sub, sub_trees, 1, 299, 4
+3005, treepatch11_sub, sub_trees, 1, 299, 4
+3006, treepatch14_sub, sub_trees, 1, 299, 4
+3007, treepatch13_sub, sub_trees, 1, 299, 4
+3008, treepatch12_sub, sub_trees, 1, 299, 4
+3009, sub_indland01, subind2, 1, 290, 1
+3010, LOD_indland01, suburb2, 1, 3500, 0
+3011, treepatch171_sub, sub_trees, 1, 299, 4
+3012, treepatch172_sub, sub_trees, 1, 299, 4
+3013, LODdpart96, SUB_LOD_AIR, 1, 3500, 0
+3014, LODf28, SUB_LOD_AIR, 1, 3500, 0
+3015, Airportroad02, airgrndb, 1, 290, 1
+3016, Airportroad03, airgrndb, 1, 290, 1
+3017, Airportroad04, airgrndb, 1, 290, 1
+3018, Airportroad05, airgrndb, 1, 290, 1
+3019, Airportroad01, airgrndb, 1, 290, 1
+3020, Airportroad07, airgrndb, 1, 290, 1
+3021, Airportroad08, airgrndb, 1, 290, 1
+3022, Airportroad09, airgrndb, 1, 290, 1
+3023, Airportroad10, airgrndb, 1, 290, 1
+3024, Airportroad11, airgrndb, 1, 290, 1
+3025, Hospital_Sub, subhospital, 1, 200, 4
+3026, LODpital_Sub, suburb1, 1, 3500, 0
+3027, airportjunc01, shore_land_gen, 1, 150, 0
+3028, subnewrds1972, shore_land_gen, 1, 150, 0
+3029, Sub_sprayshopdoor, subuild2, 1, 290, 0
+3030, amcogaragedoor, subuild4, 1, 290, 0
+3031, LODind_build02, suburb1, 1, 3500, 0
+3032, LODice_Station_Sub, suburb2, 1, 3500, 0
+3033, LODestatebuild1, suburb1, 1, 3500, 0
+3034, LODportroad02, SUB_LOD_AIR, 1, 3500, 0
+3035, LODportroad03, SUB_LOD_AIR, 1, 3500, 0
+3036, LODportroad04, SUB_LOD_AIR, 1, 3500, 0
+3037, LODportroad05, SUB_LOD_AIR, 1, 3500, 0
+3038, LODportroad07, SUB_LOD_AIR, 1, 3500, 0
+3039, LODportroad01, SUB_LOD_AIR, 1, 3500, 0
+3040, LODportroad09, SUB_LOD_AIR, 1, 3500, 0
+3041, LODportroad08, SUB_LOD_AIR, 1, 3500, 0
+3042, LODportroad10, SUB_LOD_AIR, 1, 3500, 0
+3043, LODportroad11, SUB_LOD_AIR, 1, 3500, 0
+3044, LODportroad06, SUB_LOD_AIR, 1, 3500, 0
+3045, bridgesupport1, bridgesupport, 1, 290, 1
+3046, bridgesupport2, bridgesupport, 1, 290, 1
+3047, impexpgrgesub, importexp, 1, 200, 0
+3048, impsubgrgdoor, importexp, 1, 100, 0
+3049, treepatch173_sub, sub_trees, 1, 299, 4
+3050, carparkfence, carparkfence, 1, 200, 4
+3051, subsign1, subsign1, 1, 290, 4
+3052, newairportwall1, airgrndb, 1, 290, 0
+3053, airportfence4, airportfence, 1, 290, 4
+3054, newairportwall2, airgrndb, 1, 290, 0
+3055, newairportwall3, airgrndb, 1, 290, 0
+3056, newairportwall4, airgrndb, 1, 200, 0
+3057, newairportwall5, airgrndb, 1, 290, 0
+3058, newairportwall6, airgrndb, 1, 290, 0
+3059, airportfence6, airportfence, 1, 290, 4
+3060, airportfence5, airportfence, 1, 290, 4
+3061, 8ballsuburbandoor, subestbuild, 1, 290, 0
+3062, suburbansigns1, localsignsub, 1, 290, 0
+3063, suburbansigns2, localsignsub, 1, 290, 0
+3064, suburbansigns3, localsignsub, 1, 290, 0
+3065, suburbansigns7, localsignsub, 1, 290, 0
+3066, sub_indland06, subind5, 1, 200, 1
+3067, LOD_indland06, suburb2, 1, 3500, 0
+3068, LOD_brway_03, SUB_LOD_AIR, 1, 3500, 0
+3069, LOD_brway_02, SUB_LOD_AIR, 1, 3500, 0
+3070, LOD_srway_02, SUB_LOD_AIR, 1, 3500, 0
+3071, airtower1, airporterminal3, 1, 290, 4
+3072, airtower2, airporterminal3, 1, 290, 0
+3073, LODtower2, SUB_LOD_AIR, 1, 3500, 0
+3074, LODtower1, SUB_LOD_AIR, 1, 3500, 0
+3075, treepatch212_sub, sub_trees, 1, 299, 4
+3076, treepatch213_sub, sub_trees, 1, 299, 4
+3077, treepatch214_sub, sub_trees, 1, 299, 4
+3078, LODdgeroadsub01, subonramp, 1, 3500, 0
+3079, LODdgeroadsub04, subonramp, 1, 3500, 0
+3080, LODdgeroadsub02, subonramp, 1, 3500, 0
+3081, LODdgeroadsub03, subonramp, 1, 3500, 0
+3082, LOD_grnd14, SUB_LOD_AIR, 1, 3500, 0
+3083, LOD_planeroad3, SUB_LOD_AIR, 1, 3500, 0
+3084, LOD_planeroad2, SUB_LOD_AIR, 1, 3500, 0
+3085, LOD_planeroad1, SUB_LOD_AIR, 1, 3500, 0
+3086, LODdpart89, SUB_LOD_AIR, 1, 3500, 0
+3087, LOD_subroads97, SUB_LOD_AIR, 1, 3500, 0
+3088, LOD_subroads99, SUB_LOD_AIR, 1, 3500, 0
+3089, LOD_subroads98, SUB_LOD_AIR, 1, 3500, 0
+3090, Subway_monument, submonument, 1, 290, 4
+3091, treepatch152_sub, sub_trees, 1, 299, 4
+3092, treepatch153_sub, sub_trees, 1, 299, 4
+3093, sub_indland02, subind4, 1, 250, 1
+3094, LOD_indland02, suburb2, 1, 3500, 0
+3095, LODowerL, SUB_LOD_AIR, 1, 3500, 0
+3096, damissionfence, damissionfence, 1, 290, 0
+3097, LODexpgrgesub, suburb2, 1, 3500, 0
+3098, LOD_ind03, suburb2, 1, 3500, 0
+3099, LOD_subroads96, SUB_LOD_AIR, 1, 3500, 0
+3100, aptowerL, airporterminal4, 1, 290, 4
+3101, LOD_brway_01, SUB_LOD_AIR, 1, 3500, 0
+3102, subind_build04, subuild5, 1, 200, 0
+3103, LODind_build04, subuild5, 1, 3500, 0
+3104, subind_build05, subuild5, 1, 200, 0
+3105, LODind_build05, subuild5, 1, 3500, 0
+3106, sub_indland03, subind6, 1, 200, 1
+3107, LOD_indland03, subind6, 1, 3500, 0
+3108, landpart10, sub_villas, 1, 290, 0
+3109, landpart14, shore_land_gen, 1, 100, 0
+3110, OLDGRGDOOR2, projbits, 1, 100, 0
+3111, OLDGRGDOOR1, projbits, 1, 100, 0
+3112, Subestatebuild1, subestbuild, 1, 250, 0
+3113, LODsion1, sub_treesLOD, 1, 3500, 0
+3114, Section_03, sjl_tunnel, 1, 299, 0
+3115, Section_01, sjl_tunnel, 1, 299, 0
+3116, Trans_lights03, sjl_tunnel, 1, 300, 76
+3117, Trans_lights02, sjl_tunnel, 1, 300, 76
+3118, Trans_lights01, sjl_tunnel, 1, 300, 76
+3119, Section_1road, sjl_tunnel, 1, 299, 1
+3120, Section_2road, sjl_tunnel, 1, 299, 1
+3121, Section_3road, sjl_tunnel, 1, 299, 1
+3122, dr_newtunnelrd, shore_land_gen, 1, 220, 1
+3123, brokebridge_rd, shore_land_gen, 1, 200, 1
+3124, air_grnd03, airgrndb, 1, 290, 1
+3125, air_grnd08, airgrndb, 1, 290, 1
+3126, air_grnd13, airporterminal, 1, 290, 1
+3127, air_grnd11, airgrndb, 1, 290, 1
+3128, air_grnd09, airgrndb, 1, 290, 1
+3129, air_grnd7, airgrndb, 1, 290, 1
+3130, air_grnd0301, airgrndb, 1, 290, 1
+3131, air_grnd10, airgrndb, 1, 290, 1
+3132, air_grnd12, airgrndb, 1, 290, 1
+3133, LOD_indland05, subind7, 1, 3500, 0
+3134, sub_indland05, subind7, 1, 200, 1
+3135, air_brway_03, airgrndb, 1, 299, 1
+3136, sub_indland04, subind8, 1, 200, 0
+3137, LOD_indland04, subind8, 1, 3500, 0
+3138, aptermin_pm, airporterminal3, 1, 120, 4
+3139, sub_indland07, subind3, 1, 200, 1
+3140, LOD_indland07, subind3, 1, 3500, 0
+3141, suburbbridge1, highbridge, 1, 280, 4
+3142, sub_indland08, subind1, 1, 290, 0
+3143, topwarejunc, shore_gen_road, 1, 120, 1
+3144, subind_build02, subuild2, 1, 200, 0
+3145, tunent3, tunlentnew, 1, 290, 0
+3146, sublandpart24, shore_land_gen, 1, 290, 0
+3147, pm_dirtramp, shore_land_gen, 1, 180, 1
+3148, subposter09, sub_poster76, 1, 250, 0
+3149, subposter10, sub_poster13, 1, 250, 0
+3150, subposter11, sub_poster08, 1, 250, 0
+3151, subposter12, sub_poster12, 1, 250, 0
+3152, subposter14, sub_poster18, 1, 250, 0
+3153, subposter08, sub_poster65, 1, 250, 0
+3154, subposter03, sub_poster72, 1, 250, 0
+3155, subposter04, sub_poster35, 1, 250, 0
+3156, subposter05, sub_poster23, 1, 250, 0
+3157, subposter06, sub_poster49, 1, 250, 0
+3158, subposter07, sub_poster55, 1, 250, 0
+3159, subposter01, sub_poster22, 1, 250, 0
+3160, LOD_road1, suburb1, 1, 3500, 0
+3161, sub_subway, subentr, 1, 100, 1
+3162, pm_corru_ramp, subind1, 1, 200, 0
+3163, pm_woody_ramp, subind4, 1, 150, 0
+3164, rooftopjump, z, 1, 100, 0
+3165, rooftopjump01, subind26, 1, 100, 0
+3166, pm_corru_ramp2, subind26, 1, 200, 0
+3167, damfence09, damfence, 1, 100, 4
+3168, clif12, shore_land_gen, 1, 290, 0
+3169, dead_end, sjl_tunnel, 1, 220, 1
+3170, hill_tunnel2, sjl_tunnel, 1, 299, 0
+3171, hill_tunnel1, sjl_tunnel, 1, 299, 0
+3172, Section_02, sjl_tunnel, 1, 299, 0
+3173, landpart90, shore_land_gen, 1, 290, 0
+3174, air_grnd01, airgrndb, 1, 290, 1
+3175, apterminalfront, airporterminal, 1, 290, 0
+3176, sub_ind26, subind26, 1, 200, 0
+3177, apair_terminal, airporterminal2, 1, 290, 0
+3178, LOD_grnd7, SUB_LOD_AIR, 1, 3500, 0
+3179, LOD_grnd08, SUB_LOD_AIR, 1, 3500, 0
+3180, apairprtbits_m01, srv_airpbt, 1, 290, 4
+3181, apairprtbits_m02, srv_airpbt, 1, 290, 4
+3182, apairprtbits_m03, srv_airpbt, 1, 290, 4
+3183, Police_Station_Sub, subpolice, 1, 290, 0
+3184, towergaragedoor1, projbits, 1, 100, 0
+3185, PC_Garage, sub_villas, 1, 130, 0
+3186, Dam_pod1, dam, 1, 290, 5
+3187, air_srway_01, airgrndb, 1, 290, 1
+3188, LOD_srway_01, SUB_LOD_AIR, 1, 3500, 0
+3189, Trailer_jump, Air_jump, 1, 200, 0
+3190, LODdpart23, suburb1, 1, 3500, 0
+3191, Grnd_shad1, Grnd_shad, 1, 290, 68
+3192, Grnd_shad2, Grnd_shad, 1, 290, 68
+3193, Grnd_shad3, Grnd_shad, 1, 290, 68
+3194, new_GOD_DAM, dam, 1, 290, 1
+3195, jm_kiosk, jm_kiosk2, 1, 150, 0
+3196, dam_base, dambase, 1, 290, 1
+3197, Dirt_side01, shore_land_g1, 1, 290, 0
+3198, Siu_Roadpart_01, New_road_02, 1, 290, 1
+3199, siusubnewrds09, New_road_03, 1, 290, 1
+3200, siu_CrossRoads1a, New_road_01, 1, 290, 1
+3201, dr_pathbodge1, CHANGEME, 1, 100, 0
+3202, dr_pathbodge2, CHANGEME, 1, 100, 0
+3203, siupath01, CHANGEME, 1, 100, 0
+3204, siupath02, CHANGEME, 1, 100, 0
+3205, siupath03, CHANGEME, 1, 100, 0
+3206, siupath04, CHANGEME, 1, 100, 0
+3207, siupath05, CHANGEME, 1, 100, 0
+3208, siupath06, CHANGEME, 1, 100, 0
+3209, siupath07, CHANGEME, 1, 100, 0
+3210, siupath08, CHANGEME, 1, 100, 0
+3211, siupath09, CHANGEME, 1, 100, 0
+3212, siupath10, CHANGEME, 1, 100, 0
+3213, siupath11, CHANGEME, 1, 100, 0
+3214, siupath22, CHANGEME, 1, 100, 0
+3215, siupath12, CHANGEME, 1, 100, 0
+3216, siupath13, CHANGEME, 1, 100, 0
+3217, siupath14, CHANGEME, 1, 100, 0
+3218, siupath15, CHANGEME, 1, 100, 0
+3219, siupath16, CHANGEME, 1, 100, 0
+3220, siupath17, CHANGEME, 1, 100, 0
+3221, siupath18, CHANGEME, 1, 100, 0
+3222, siupath19, CHANGEME, 1, 100, 0
+3223, siupath20, CHANGEME, 1, 100, 0
+3224, siupath21, CHANGEME, 1, 100, 0
+3225, siupath23, CHANGEME, 1, 100, 0
+3226, Dirt_side02, shore_land_g2, 1, 290, 0
+3227, Tree_shadow00, shoreside_treshad, 1, 200, 68
+3228, Tree_shadow01, shoreside_treshad, 1, 200, 68
+3229, Tree_shadow02, shoreside_treshad, 1, 200, 68
+3230, Tree_shadow03, shoreside_treshad, 1, 200, 68
+3231, Tree_shadow04, shoreside_treshad, 1, 200, 68
+3232, iz_shsfhs_rug, iz_rug_SH, 1, 100, 0
+3233, proj_garage09, projbits, 2, 200, 290, 0
+3234, proj_garage01, projbits, 2, 290, 290, 0
+3235, proj_garage02, projbits, 2, 290, 290, 0
+3236, proj_garage03, projbits, 2, 290, 290, 0
+3237, proj_garage04, projbits, 2, 200, 290, 0
+3238, proj_garage05, projbits, 2, 200, 290, 0
+3239, proj_garage06, projbits, 2, 200, 290, 0
+3240, proj_garage07, projbits, 2, 200, 290, 0
+3241, proj_garage08, projbits, 2, 200, 290, 0
+end
+tobj
+end
+path
+0, 2555, sublandpart22
+	2, 1, 0, 115.015, 1019.12, 45.1407, 1, 1, 1, 1, 1, 1
+	2, 2, 0, 18.9375, 985.484, 45.1407, 1, 1, 1, 1, 1, 1
+	2, 3, 0, -64.2979, 1089.88, 45.1407, 1, 1, 1, 1, 1, 1
+	2, 4, 0, -522.039, 1056.68, 45.1407, 1, 1, 1, 1, 1, 1
+	2, 5, 0, -601.85, 795.469, 45.1407, 1, 1, 1, 1, 1, 1
+	2, 6, 0, -891.467, 659.459, 45.1407, 1, 1, 1, 1, 1, 1
+	2, 7, 0, -998.939, 777.593, 45.1411, 1, 1, 1, 1, 1, 1
+	2, 8, 0, -1000.46, 1162.61, 45.1411, 1, 1, 1, 1, 1, 1
+	2, 9, 0, -676.892, 1166.01, 45.1407, 1, 1, 1, 1, 1, 1
+	2, 10, 0, -296.414, 1174.02, 45.1407, 1, 1, 1, 1, 1, 1
+	2, 0, 0, 188.02, 1165.96, 45.1407, 1, 1, 1, 1, 1, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+0, 2557, landpart15
+	2, 2, 0, 1803.47, 1284.27, 365.141, 2, 1, 1, 1, 0, 1
+	2, 3, 1, 1390.06, 1028.81, 365.14, 2, 1, 1, 1, 0, 1
+	2, 1, 1, 1803.47, 1033.57, 365.141, 2, 1, 1, 1, 0, 1
+	2, 0, 1, 1389.79, 1289.33, 365.141, 2, 1, 1, 1, 0, 1
+	1, 3, 0, 1359.94, 1284.52, 365.141, 2, 1, 1, 1, 0, 1
+	1, 3, 0, 1401.11, 1319.18, 365.141, 2, 1, 1, 1, 0, 1
+	1, 2, 0, 1803.47, 999.172, 365.141, 2, 1, 1, 1, 0, 1
+	1, 1, 0, 1396.82, 999.174, 365.141, 2, 1, 1, 1, 0, 1
+	1, 1, 0, 1359.93, 1038.57, 365.14, 2, 1, 1, 1, 0, 1
+	1, 0, 0, 1803.47, 1319.19, 365.141, 2, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+0, 2596, Dam_pod2
+	2, 1, 0, 1.56323, -585.981, 177.963, 2, 1, 1, 1, 0, 1
+	2, 2, 0, -4.38539, -286.059, 183.478, 2, 1, 1, 1, 0, 1
+	2, 3, 0, -0.0756804, 54.5082, 183.478, 2, 1, 1, 1, 0, 1
+	2, 4, 0, -20.5522, 446.019, 183.726, 2, 1, 1, 1, 0, 1
+	2, 5, 0, -206.418, 581.992, 189.456, 2, 1, 1, 1, 0, 1
+	2, 6, 0, -130.593, 806.388, 184.444, 2, 1, 1, 1, 0, 1
+	2, -1, 0, 102.495, 813.644, 184.444, 2, 1, 1, 1, 0, 1
+	2, 6, 0, 189.308, 632.041, 188.36, 2, 1, 1, 1, 0, 1
+	2, 7, 0, 73.6779, 476.659, 188.36, 2, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+1, 2612, clif22
+	2, 10, 0, 376.287, 873.54, 365.799, 0, 1, 1, 1, 0, 1
+	2, 2, 0, 325.619, 12.2342, 524.004, 0, 1, 1, 1, 0, 1
+	2, 3, 0, 301.276, 87.5264, 509.275, 0, 1, 1, 1, 0, 1
+	2, 4, 0, 282.167, 188.829, 485.847, 0, 1, 1, 1, 0, 1
+	2, 5, 0, 277.322, 290.481, 464.978, 0, 1, 1, 1, 0, 1
+	2, 6, 0, 274.562, 399.545, 421.255, 0, 1, 1, 1, 0, 1
+	2, 7, 0, 288.81, 512.928, 409.665, 0, 1, 1, 1, 0, 1
+	2, 8, 0, 306.104, 607.628, 384.062, 0, 1, 1, 1, 0, 1
+	2, 0, 0, 334.533, 722.241, 374.664, 0, 1, 1, 1, 0, 1
+	1, 1, 0, 339.883, -40.8226, 522.812, 0, 1, 1, 1, 0, 1
+	1, -1, 0, 398.912, 1011.44, 359.827, 0, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+0, 2612, clif22
+	2, 11, 0, 339.563, 992.597, 364.296, 2, 1, 1, 1, 0, 1
+	2, 2, 0, 387.706, 110.794, 509.156, 2, 1, 1, 1, 0, 1
+	2, 3, 0, 371.398, 296.803, 466.274, 2, 1, 1, 1, 0, 1
+	2, 4, 0, 384.006, 494.355, 412.893, 2, 1, 1, 1, 0, 1
+	2, 9, 0, 425.419, 720.342, 372.758, 2, 1, 1, 1, 0, 1
+	2, 0, 0, 219.77, 540.031, 406.052, 2, 1, 1, 1, 0, 1
+	2, 5, 0, 201.065, 277.56, 468.14, 2, 1, 1, 1, 0, 1
+	2, 6, 0, 277.802, -55.5877, 524.568, 2, 1, 1, 1, 0, 1
+	1, 7, 0, 240.173, -79.2309, 525.135, 2, 1, 1, 1, 0, 1
+	1, -1, 0, 470.674, 1008.22, 359.826, 2, 1, 1, 1, 0, 1
+	1, 1, 0, 440.113, -79.6961, 525.135, 2, 1, 1, 1, 0, 1
+	1, -1, 0, 342.817, 1013.6, 359.826, 2, 1, 1, 1, 0, 1
+1, 2630, parkpath1
+	2, 8, 0, 797.943, 279.198, 45.1966, 0, 1, 1, 1, 0, 1
+	2, 2, 0, -752.924, 279.198, 45.1966, 0, 1, 1, 1, 0, 1
+	2, 3, 0, -473.816, 279.198, 45.1966, 0, 1, 1, 1, 0, 1
+	2, 4, 0, -189.511, 279.198, 45.1966, 0, 1, 1, 1, 0, 1
+	2, 5, 0, 89.4736, 279.198, 45.1966, 0, 1, 1, 1, 0, 1
+	2, 6, 0, 368.512, 279.198, 45.1966, 0, 1, 1, 1, 0, 1
+	2, 0, 0, 644.924, 279.198, 45.1966, 0, 1, 1, 1, 0, 1
+	1, 1, 0, -1040.06, 279.18, 42.7417, 0, 1, 1, 1, 0, 1
+	1, -1, 0, 939.919, 300.66, 45.1966, 0, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+1, 2631, pathpark2
+	2, 11, 0, -65.77, 1528.42, 45.1966, 0, 1, 1, 1, 0, 1
+	2, 2, 0, -240.823, -768.371, 45.1966, 0, 1, 1, 1, 0, 1
+	2, 3, 0, -165.705, -679.838, 45.1966, 0, 1, 1, 1, 0, 1
+	2, 4, 0, -112.049, -593.989, 45.1966, 0, 1, 1, 1, 0, 1
+	2, 5, 0, -82.5381, -478.629, 45.1966, 0, 1, 1, 1, 0, 1
+	2, 6, 0, -82.5381, -196.697, 45.1966, 0, 1, 1, 1, 0, 1
+	2, 7, 0, -82.5381, 222.896, 45.1966, 0, 1, 1, 1, 0, 1
+	2, 8, 0, -82.5381, 630.269, 45.1966, 0, 1, 1, 1, 0, 1
+	2, 9, 0, -82.5381, 1036.41, 45.1966, 0, 1, 1, 1, 0, 1
+	2, 0, 0, -82.5381, 1422.85, 45.1966, 0, 1, 1, 1, 0, 1
+	1, 1, 0, -340.086, -819.344, 45.1966, 0, 1, 1, 1, 0, 1
+	1, -1, 0, -9.09375, 1625.17, 45.1966, 0, 1, 1, 1, 0, 1
+1, 2736, Tunl_Junc_Road02
+	2, 2, 0, 0, -41.3665, -7.92829, 0, 1, 1, 1, 0, 1
+	1, 0, 0, 0, -300, -60.3002, 0, 2, 2, 1, 0, 1
+	1, -1, 0, 0, 300, 57.9003, 0, 2, 2, 1, 0, 1
+	1, 0, 0, -240, -39.3906, -6.17346, 0, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+0, 2736, Tunl_Junc_Road02
+	2, 7, 0, -202.443, 100, 20.9001, 2, 1, 1, 1, 0, 1
+	2, 2, 0, 200.51, -100, -18.5, 2, 1, 1, 1, 0, 1
+	2, 5, 0, 200.51, 100, 20.9001, 2, 1, 1, 1, 0, 1
+	2, 0, 0, -202.709, -217.913, -40.506, 2, 1, 1, 1, 0, 1
+	1, 3, 0, -202.285, -300, -57.9002, 2, 1, 1, 1, 0, 1
+	1, -1, 0, 200.51, 300, 60.3003, 2, 1, 1, 1, 0, 1
+	1, 1, 0, 200.51, -300, -57.9002, 2, 1, 1, 1, 0, 1
+	1, -1, 0, -202.285, 300, 60.3003, 2, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+1, 2761, newroadsec01
+	2, 3, 0, 100, 0, -1.20001, 0, 1, 1, 1, 0, 1
+	2, 0, 0, -100, 0, -1.20001, 0, 1, 1, 1, 0, 1
+	1, 1, 0, -300, 0, -1.20001, 0, 2, 2, 1, 0, 1
+	1, -1, 0, 300, 0, -1.20001, 0, 2, 2, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+0, 2761, newroadsec01
+	2, 7, 0, 100, 201.253, 1.20001, 2, 1, 1, 1, 0, 1
+	2, 2, 0, -100, -196.726, 1.20001, 2, 1, 1, 1, 0, 1
+	2, 5, 0, 100, -196.726, 1.20001, 2, 1, 1, 1, 0, 1
+	2, 0, 0, -100, 201.253, 1.20001, 2, 1, 1, 1, 0, 1
+	1, 3, 0, -300, 201.253, 1.20001, 2, 1, 1, 1, 0, 1
+	1, -1, 0, 300, -196.726, 1.20001, 2, 1, 1, 1, 0, 1
+	1, 1, 0, -300, -196.726, 1.20001, 2, 1, 1, 1, 0, 1
+	1, -1, 0, 300, 201.253, 1.20001, 2, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+1, 2762, newroadsec02
+	2, 2, 0, -9.34799, -0.197302, -0.813863, 0, 1, 1, 1, 0, 1
+	1, 0, 0, -100, 0, -1.20001, 0, 2, 2, 1, 0, 1
+	1, -1, 0, 100, 0, -1.20001, 0, 2, 2, 1, 0, 1
+	1, 0, 0, -0.0472641, 240, -1.20001, 0, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+0, 2762, newroadsec02
+	2, 5, 0, -1.09844, 200.675, 1.20001, 2, 1, 1, 1, 0, 1
+	2, 2, 0, 9.64829, -197.485, 0.936271, 2, 1, 1, 1, 0, 1
+	1, -1, 0, 100, -197.293, 1.20001, 2, 1, 1, 1, 0, 1
+	1, 0, 0, -100, 201.33, 1.20001, 2, 1, 1, 1, 0, 1
+	1, 1, 0, -100, -197.293, 1.20001, 2, 1, 1, 1, 0, 1
+	1, -1, 0, 100, 201.33, 1.20001, 2, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+0, 2764, Tunl_Junc_Road03
+	2, 5, 0, -202.23, -100, -18.5001, 2, 1, 1, 1, 0, 1
+	2, 2, 0, 200.125, -100, -18.5001, 2, 1, 1, 1, 0, 1
+	1, -1, 0, 200.125, 100, 20.9, 2, 1, 1, 1, 0, 1
+	1, 0, 0, -202.23, -300, -57.9004, 2, 1, 1, 1, 0, 1
+	1, 1, 0, 200.125, -300, -57.9004, 2, 1, 1, 1, 0, 1
+	1, -1, 0, -202.23, 100, 20.9, 2, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+1, 2764, Tunl_Junc_Road03
+	2, 5, 0, 0, 250, 55.8938, 0, 1, 1, 1, 0, 1
+	2, 2, 0, 0, -100, -20.9001, 0, 1, 1, 1, 0, 1
+	2, 3, 0, 0, 100, 21.8018, 0, 1, 1, 1, 0, 1
+	2, 0, 0, 0, 200, 45.869, 0, 1, 1, 1, 0, 1
+	1, 1, 0, 0, -300, -60.3004, 0, 2, 2, 1, 0, 1
+	1, -1, 0, -0.000976563, 300, 57.9001, 0, 1, 2, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+1, 2765, Tunl_Junc_Road01
+	2, 2, 0, 0, 0, -1.20001, 0, 1, 1, 1, 0, 1
+	1, 0, 0, 0, -200, -40.6002, 0, 2, 2, 1, 0, 1
+	1, -1, 0, 0, 200, 38.2002, 0, 2, 2, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+0, 2765, Tunl_Junc_Road01
+	2, 5, 0, -201.6, 0, 1.19995, 2, 1, 1, 1, 0, 1
+	2, 2, 0, 200.645, 0, 1.19995, 2, 1, 1, 1, 0, 1
+	1, -1, 0, 200.645, 200, 40.6002, 2, 1, 1, 1, 0, 1
+	1, 0, 0, -201.6, -200, -38.2002, 2, 1, 1, 1, 0, 1
+	1, 1, 0, 200.645, -200, -38.2002, 2, 1, 1, 1, 0, 1
+	1, -1, 0, -201.6, 200, 40.6002, 2, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+1, 2807, round_bit
+	2, 4, 0, -35.6524, 498.514, 265.811, 0, 1, 1, 1, 0, 1
+	2, 2, 0, 608.951, -254.766, 265.812, 0, 1, 1, 1, 0, 1
+	2, 0, 0, 362.794, 184.515, 265.811, 0, 1, 1, 1, 0, 1
+	1, 1, 0, 677.175, -751.078, 267.413, 0, 1, 1, 1, 0, 1
+	1, -1, 0, -710.537, 649.962, 267.133, 0, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+0, 2807, round_bit
+	2, 9, 0, -462.648, 579.266, 266.128, 2, 1, 1, 1, 0, 1
+	2, 2, 0, 672.134, -187.308, 267.663, 2, 1, 1, 1, 0, 1
+	2, 3, 0, 346.672, 321.881, 272.746, 2, 1, 1, 1, 0, 1
+	2, 7, 0, -108.154, 631.022, 268.724, 2, 1, 1, 1, 0, 1
+	2, 0, 0, -50.2326, 455.623, 266.146, 2, 1, 1, 1, 0, 1
+	2, 6, 0, 574.537, -319.095, 267.258, 2, 1, 1, 1, 0, 1
+	2, 4, 0, 375.558, 87.3295, 266.146, 2, 1, 1, 1, 0, 1
+	1, -1, 0, -711.232, 743.55, 268.471, 2, 1, 1, 1, 0, 1
+	1, 1, 0, 748.733, -754.608, 268.876, 2, 1, 1, 1, 0, 1
+	1, -1, 0, -709.196, 587.671, 268.773, 2, 1, 1, 1, 0, 1
+	1, 5, 0, 621.214, -750.436, 269.888, 2, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+1, 2867, dam_road1
+	2, 4, 0, 6.63477, 293.146, 4.92932, 0, 1, 1, 1, 0, 1
+	2, 2, 0, -1.20313, -313.456, 4.92932, 0, 1, 1, 1, 0, 1
+	2, 0, 0, 7.3125, -3.07129, 4.92932, 0, 1, 1, 1, 0, 1
+	1, 1, 0, 15.8359, -599.796, 4.92932, 0, 1, 1, 1, 0, 1
+	1, -1, 0, 0.390625, 588.436, -2.70728, 0, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+0, 2867, dam_road1
+	2, 9, 0, -113.336, -313.844, 4.92932, 2, 1, 1, 1, 0, 1
+	2, 2, 0, 122.19, 284.04, 4.92932, 2, 1, 1, 1, 0, 1
+	2, 3, 0, 117.917, -5.26392, 4.92932, 2, 1, 1, 1, 0, 1
+	2, 7, 0, 114.829, -314.244, 4.92932, 2, 1, 1, 1, 0, 1
+	2, 0, 0, -105.207, -8.05347, 4.92932, 2, 1, 1, 1, 0, 1
+	2, 4, 0, -111.982, 295, 4.92932, 2, 1, 1, 1, 0, 1
+	1, 5, 0, -139.559, 594.384, -3.83521, 2, 1, 1, 1, 0, 1
+	1, -1, 0, 94.0547, -600.158, 4.72388, 2, 1, 1, 1, 0, 1
+	1, 1, 0, 133.588, 582.489, -1.57922, 2, 1, 1, 1, 0, 1
+	1, -1, 0, -65.9453, -600.158, 4.72388, 2, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+1, 2872, Airportroad06
+	2, 11, 0, -726.906, -719.227, 161.251, 0, 1, 1, 1, 0, 1
+	2, 2, 0, 444.699, 983.61, 161.251, 0, 1, 1, 1, 0, 1
+	2, 3, 0, 12.0898, 983.61, 161.251, 0, 1, 1, 1, 0, 1
+	2, 4, 0, -420.242, 983.61, 161.251, 0, 1, 1, 1, 0, 1
+	2, 5, 0, -537.902, 936.729, 161.251, 0, 1, 1, 1, 0, 1
+	2, 6, 0, -645.184, 842.895, 161.251, 0, 1, 1, 1, 0, 1
+	2, 7, 0, -712.537, 723.924, 161.251, 0, 1, 1, 1, 0, 1
+	2, 8, 0, -726.906, 578.043, 161.251, 0, 1, 1, 1, 0, 1
+	2, 9, 0, -726.906, 145.713, 161.251, 0, 1, 1, 1, 0, 1
+	2, 0, 0, -726.906, -286.896, 161.251, 0, 1, 1, 1, 0, 1
+	1, 1, 0, 877.029, 983.61, 161.251, 0, 1, 1, 1, 0, 1
+	1, -1, 0, -726.906, -1151.56, 161.251, 0, 1, 1, 1, 0, 1
+0, 2948, subntrance_sub2
+	2, 8, 0, 258.771, -1859.03, -290.966, 2, 1, 1, 1, 0, 1
+	2, 2, 0, -2.12882, -428.043, 42.7349, 2, 1, 1, 1, 0, 1
+	2, 3, 0, -2.44287, -667.715, -42.9307, 2, 1, 1, 1, 0, 1
+	2, -1, 0, -2.41151, -908.062, -128.82, 2, 1, 1, 1, 0, 1
+	2, 3, 0, -27.1848, -1046.63, -133.398, 2, 1, 1, 1, 0, 1
+	2, 4, 0, -28.5285, -1161.6, -186.653, 2, 1, 1, 1, 0, 1
+	2, 5, 0, -29.7339, -1296.84, -250.216, 2, 1, 1, 1, 0, 1
+	2, 6, 0, -21.2715, -1428.82, -288.717, 2, 1, 1, 1, 0, 1
+	2, 7, 0, 235.223, -1496.25, -287.542, 2, 1, 1, 1, 0, 1
+	1, 1, 0, -2.32715, -348.091, 70.9089, 2, 1, 1, 1, 0, 1
+	1, 0, 0, 253.126, -2014.96, -297.507, 2, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+0, 2949, subentrance_sub1
+	2, 8, 0, 140.723, -1276.39, -353.668, 2, 1, 1, 1, 0, 1
+	2, 2, 0, 152.2, -1283.1, -237.269, 2, 1, 1, 1, 0, 1
+	2, 3, 0, 172.408, -1500.74, -236.746, 2, 1, 1, 1, 0, 1
+	2, 4, 0, 217.99, -1530.6, -237.086, 2, 1, 1, 1, 0, 1
+	2, 5, 0, 501.729, -1525.58, -386.955, 2, 1, 1, 1, 0, 1
+	2, 6, 0, 576.815, -1481.3, -387.893, 2, 1, 1, 1, 0, 1
+	2, -1, 0, 467.508, -1397.73, -388.466, 2, 1, 1, 1, 0, 1
+	2, 6, 0, 328.459, -1392.44, -388.354, 2, 1, 1, 1, 0, 1
+	2, 7, 0, 183.075, -1347.01, -385.257, 2, 1, 1, 1, 0, 1
+	1, 1, 0, 152.2, -1178.68, -234.66, 2, 1, 1, 1, 0, 1
+	1, 0, 0, 74.7612, -1238.73, -353.668, 2, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+1, 2993, newroadsec1
+	2, 2, 0, -0.202148, 283.36, 0.751587, 0, 1, 1, 1, 0, 1
+	1, 0, 0, 159.803, 359.997, 0.751648, 0, 1, 1, 1, 0, 1
+	1, -1, 0, -160, 199.998, 2.40002, 0, 1, 1, 1, 0, 1
+	1, 0, 0, 0, -40, 0, 0, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+0, 2993, newroadsec1
+	2, 10, 0, 127.432, 220.389, 2.39569, 2, 1, 1, 1, 0, 1
+	2, 8, 0, -0.712296, 405.014, 4.87781, 2, 1, 1, 1, 0, 1
+	2, 0, 0, 119.355, 184.17, 2.47284, 2, 1, 1, 1, 0, 1
+	2, 6, 0, -119.128, 40, 3.83267, 2, 1, 1, 1, 0, 1
+	2, 3, 0, -124.876, 89.3308, 3.5093, 2, 1, 1, 1, 0, 1
+	1, 4, 0, -160, 88.2794, 4.80005, 2, 1, 1, 1, 0, 1
+	1, -1, 0, -118.084, -40, 2.40002, 2, 1, 1, 1, 0, 1
+	1, 2, 0, 123.906, -40, 2.40002, 2, 1, 1, 1, 0, 1
+	1, -1, 0, 159.803, 484.102, 3.15161, 2, 1, 1, 1, 0, 1
+	1, 1, 0, -160, 324.101, 4.80005, 2, 1, 1, 1, 0, 1
+	1, -1, 0, 159.803, 242.603, 3.08411, 2, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+1, 3015, Airportroad02
+	2, 10, 0, -1810.76, 341.521, 161.251, 0, 1, 1, 1, 0, 1
+	2, 2, 0, 1647.89, 78.3125, 140.328, 0, 1, 1, 1, 0, 1
+	2, 3, 0, 1215.56, 78.3125, 161.251, 0, 1, 1, 1, 0, 1
+	2, 4, 0, 783.226, 78.3125, 161.251, 0, 1, 1, 1, 0, 1
+	2, 5, 0, 350.895, 78.3125, 161.251, 0, 1, 1, 1, 0, 1
+	2, 6, 0, -81.4355, 78.3125, 161.251, 0, 1, 1, 1, 0, 1
+	2, 7, 0, -513.767, 80.5275, 161.251, 0, 1, 1, 1, 0, 1
+	2, 8, 0, -946.098, 257.063, 161.251, 0, 1, 1, 1, 0, 1
+	2, 0, 0, -1378.43, 341.521, 161.251, 0, 1, 1, 1, 0, 1
+	1, 1, 0, 2150.25, 78.0942, 122.742, 0, 1, 1, 1, 0, 1
+	1, -1, 0, -2243.09, 153.854, 161.251, 0, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+1, 3016, Airportroad03
+	2, 8, 0, -534.133, -252.783, 161.251, 0, 1, 1, 1, 0, 1
+	2, 2, 0, 204.58, 773.139, 161.251, 0, 1, 1, 1, 0, 1
+	2, 3, 0, -227.75, 585.474, 161.251, 0, 1, 1, 1, 0, 1
+	2, 4, 0, -345.023, 538.22, 161.251, 0, 1, 1, 1, 0, 1
+	2, 5, 0, -452.307, 444.386, 161.251, 0, 1, 1, 1, 0, 1
+	2, 6, 0, -519.66, 325.415, 161.251, 0, 1, 1, 1, 0, 1
+	2, 0, 0, -534.092, 179.549, 161.251, 0, 1, 1, 1, 0, 1
+	1, 1, 0, 636.91, 953.854, 161.251, 0, 1, 1, 1, 0, 1
+	1, -1, 0, -534.133, -685.113, 161.251, 0, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+1, 3017, Airportroad04
+	2, 5, 0, -186.186, -75.7705, 161.251, 0, 1, 1, 1, 0, 1
+	2, 2, 0, 111.521, 139.635, 161.251, 0, 1, 1, 1, 0, 1
+	2, 3, 0, 36.0137, 24.3789, 161.251, 0, 1, 1, 1, 0, 1
+	2, 0, 0, -60.916, -47.0371, 161.251, 0, 1, 1, 1, 0, 1
+	1, 1, 0, 121.869, 274.887, 161.251, 0, 1, 1, 1, 0, 1
+	1, -1, 0, -343.887, -81.0986, 161.251, 0, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+1, 3018, Airportroad05
+	2, 2, 0, 5.07813, 270.521, 161.251, 0, 1, 1, 1, 0, 1
+	1, 0, 0, 344.111, 270.901, 161.251, 0, 1, 1, 1, 0, 1
+	1, -1, 0, -450.84, 270.521, 161.251, 0, 1, 1, 1, 0, 1
+	1, 0, 0, 5.06641, -255.122, 161.251, 0, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+1, 3019, Airportroad01
+	2, 9, 0, -365.709, -821.713, 161.251, 0, 1, 1, 1, 0, 1
+	2, 2, 0, -58.9336, 880.547, 161.251, 0, 1, 1, 1, 0, 1
+	2, 3, 0, -58.9336, 448.216, 161.251, 0, 1, 1, 1, 0, 1
+	2, 4, 0, -58.9336, 15.8848, 161.251, 0, 1, 1, 1, 0, 1
+	2, 5, 0, -58.9316, -416.445, 161.251, 0, 1, 1, 1, 0, 1
+	2, 6, 0, -73.3555, -562.313, 161.251, 0, 1, 1, 1, 0, 1
+	2, 7, 0, -140.709, -681.284, 161.251, 0, 1, 1, 1, 0, 1
+	2, 0, 0, -247.992, -775.118, 161.251, 0, 1, 1, 1, 0, 1
+	1, 1, 0, -58.9336, 1312.88, 161.251, 0, 1, 1, 1, 0, 1
+	1, -1, 0, -798.039, -821.713, 161.251, 0, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+1, 3020, Airportroad07
+	2, 10, 0, -1551.18, -20.8789, 161.251, 0, 1, 1, 1, 0, 1
+	2, 2, 0, 903.109, 238.521, 161.251, 0, 1, 1, 1, 0, 1
+	2, 3, 0, 470.777, 238.521, 161.251, 0, 1, 1, 1, 0, 1
+	2, 4, 0, 38.4473, 238.521, 161.251, 0, 1, 1, 1, 0, 1
+	2, 5, 0, -394.162, 238.521, 161.251, 0, 1, 1, 1, 0, 1
+	2, 6, 0, -826.492, 238.521, 161.251, 0, 1, 1, 1, 0, 1
+	2, 7, 0, -1258.82, 238.521, 161.251, 0, 1, 1, 1, 0, 1
+	2, 8, 0, -1376.54, 191.926, 161.251, 0, 1, 1, 1, 0, 1
+	2, 0, 0, -1483.82, 98.0918, 161.251, 0, 1, 1, 1, 0, 1
+	1, 1, 0, 1405.16, 238.521, 161.251, 0, 1, 1, 1, 0, 1
+	1, -1, 0, -1565.61, -166.745, 161.251, 0, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+1, 3021, Airportroad08
+	2, 2, 0, -237.609, 10.2871, 161.251, 0, 1, 1, 1, 0, 1
+	1, 0, 0, -237.602, 489.041, 161.251, 0, 1, 1, 1, 0, 1
+	1, -1, 0, -237.602, -329.01, 161.251, 0, 1, 1, 1, 0, 1
+	1, 0, 0, 288.027, 10.2871, 161.251, 0, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+1, 3022, Airportroad09
+	2, 5, 0, -767.641, -21.7129, 161.251, 0, 1, 1, 1, 0, 1
+	2, 2, 0, 529.629, -21.7129, 161.251, 0, 1, 1, 1, 0, 1
+	2, 3, 0, 97.0195, -21.7129, 161.251, 0, 1, 1, 1, 0, 1
+	2, 0, 0, -335.311, -21.7129, 161.251, 0, 1, 1, 1, 0, 1
+	1, 1, 0, 961.961, -21.7129, 161.251, 0, 1, 1, 1, 0, 1
+	1, -1, 0, -1199.97, -21.7129, 161.251, 0, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+1, 3023, Airportroad10
+	2, 4, 0, -13.6016, -407.738, 161.251, 0, 1, 1, 1, 0, 1
+	2, 2, 0, -13.6016, 456.923, 161.251, 0, 1, 1, 1, 0, 1
+	2, 0, 0, -13.6016, 24.5918, 161.251, 0, 1, 1, 1, 0, 1
+	1, 1, 0, -13.6094, 889.255, 161.251, 0, 1, 1, 1, 0, 1
+	1, -1, 0, -13.6016, -886.959, 161.251, 0, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+1, 3024, Airportroad11
+	2, 10, 0, -1250.64, -136.39, 161.251, 0, 1, 1, 1, 0, 1
+	2, 2, 0, 354.398, 646.66, 161.251, 0, 1, 1, 1, 0, 1
+	2, 3, 0, 354.42, 214.316, 161.251, 0, 1, 1, 1, 0, 1
+	2, 4, 0, 344.045, 79.0488, 161.251, 0, 1, 1, 1, 0, 1
+	2, 5, 0, 268.537, -36.207, 161.251, 0, 1, 1, 1, 0, 1
+	2, 6, 0, 171.607, -107.623, 161.251, 0, 1, 1, 1, 0, 1
+	2, 7, 0, 46.3379, -136.356, 161.251, 0, 1, 1, 1, 0, 1
+	2, 8, 0, -385.979, -136.39, 161.251, 0, 1, 1, 1, 0, 1
+	2, 0, 0, -818.309, -136.39, 161.251, 0, 1, 1, 1, 0, 1
+	1, 1, 0, 354.398, 1078.99, 161.251, 0, 1, 1, 1, 0, 1
+	1, -1, 0, -1682.97, -136.39, 161.251, 0, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+1, 3027, airportjunc01
+	2, 2, 0, 0, 78.396, -1.2, 0, 1, 1, 1, 0, 1
+	1, 0, 0, 0, 260, -1.2, 0, 1, 1, 1, 0, 1
+	1, -1, 0, 0, -100, -1.2, 0, 1, 1, 1, 0, 1
+	1, 0, 0, -160, 78.396, -1.2, 0, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+0, 3027, airportjunc01
+	2, 2, 0, 119.1, 78.396, 1.2, 2, 1, 1, 1, 0, 1
+	1, 0, 0, 119.1, 260, 1.2, 2, 1, 1, 1, 0, 1
+	1, -1, 0, 119.1, -100, 1.2, 2, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+0, 3028, subnewrds1972
+	2, -1, 0, -69.9008, 119.138, 0.279789, 2, 1, 1, 1, 0, 1
+	2, 2, 0, -0.000976563, -123.216, -3.91858, 2, 1, 1, 1, 0, 1
+	1, -1, 0, -80.001, -123.044, -1.51855, 2, 1, 1, 1, 0, 1
+	1, 0, 0, -61.0716, 123.393, 2.34467, 2, 1, 1, 1, 0, 1
+	1, 1, 0, 64.2319, -123.169, -1.34994, 2, 1, 1, 1, 0, 1
+	1, 0, 0, -79.9412, 117.127, -1.43087, 2, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+1, 3028, subnewrds1972
+	2, 2, 0, -14.1537, -0.884811, -3.91858, 0, 1, 1, 1, 0, 1
+	1, 0, 0, -0.000976563, -159.998, -3.91858, 0, 1, 1, 1, 0, 1
+	1, -1, 0, -80.001, 0.00201416, -3.91858, 0, 1, 1, 1, 0, 1
+	1, 0, 0, 3.3623, 0.00201416, -3.91858, 0, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+0, 3106, sub_indland03
+	2, 5, 1, 960.554, 383.28, -50.2386, 2, 1, 1, 1, 0, 1
+	2, 2, 0, 600.554, 258.971, -51.0903, 2, 1, 1, 1, 0, 1
+	2, 3, 1, 800.523, 283.598, -51.0184, 2, 1, 1, 1, 0, 1
+	2, 0, 1, 888.876, 325.573, -50.6488, 2, 1, 1, 1, 0, 1
+	1, 1, 0, 303.77, 242.689, -50.2209, 2, 1, 1, 1, 0, 1
+	1, -1, 0, 1023.88, 438.961, -49.06, 2, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+1, 3106, sub_indland03
+	2, 5, 0, 600.554, 299.58, -51.0903, 0, 1, 1, 1, 0, 1
+	2, 2, 0, 960.554, 372.229, -50.2386, 0, 1, 1, 1, 0, 1
+	2, 3, 0, 888.876, 299.58, -50.6488, 0, 1, 1, 1, 0, 1
+	2, 0, 0, 800.523, 299.58, -51.0184, 0, 1, 1, 1, 0, 1
+	1, 1, 0, 960.495, 399.761, -52.8416, 0, 1, 1, 1, 0, 1
+	1, -1, 0, 303.77, 299.58, -50.2209, 0, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+1, 3119, Section_1road
+	2, 11, 0, 1875.76, -1385.15, 311.348, 0, 2, 2, 1, 0, 1
+	2, 2, 0, -933.639, 532.271, 170.684, 0, 2, 2, 1, 0, 1
+	2, 3, 0, -386.371, 190.986, 242.746, 0, 2, 2, 1, 0, 1
+	2, 4, 0, -105.492, 31.293, 279.255, 0, 2, 2, 1, 0, 1
+	2, 5, 0, 180.72, -116.345, 302.731, 0, 2, 2, 1, 0, 1
+	2, 6, 0, 475.438, -249.218, 311.309, 0, 2, 2, 1, 0, 1
+	2, 7, 0, 1083.97, -478.805, 311.348, 0, 2, 2, 1, 0, 1
+	2, 8, 0, 1390.73, -594.109, 311.348, 0, 2, 2, 1, 0, 1
+	2, 9, 0, 1655.03, -777.825, 311.348, 0, 2, 2, 1, 0, 1
+	2, 0, 0, 1829.16, -1055.38, 311.348, 0, 2, 2, 1, 0, 1
+	1, 1, 0, -1471.94, 896.779, 145.982, 0, 2, 2, 1, 0, 1
+	1, -1, 0, 1877.16, -1468.75, 311.348, 0, 2, 2, 1, 0, 1
+1, 3120, Section_2road
+	2, 10, 0, 1554.62, -409.19, 220.3, 0, 2, 2, 1, 0, 1
+	2, 2, 0, -940.029, 91.3516, 220.3, 0, 2, 2, 1, 0, 1
+	2, 3, 0, -615.762, 91.3516, 220.3, 0, 2, 2, 1, 0, 1
+	2, 4, 0, -293.131, 91.3525, 220.3, 0, 2, 2, 1, 0, 1
+	2, 5, 0, 29.4824, 91.3525, 220.3, 0, 2, 2, 1, 0, 1
+	2, 6, 0, 356.131, 60.6836, 220.3, 0, 2, 2, 1, 0, 1
+	2, 7, 0, 673.523, -5.64551, 220.3, 0, 2, 2, 1, 0, 1
+	2, 8, 0, 980.113, -109.436, 220.3, 0, 2, 2, 1, 0, 1
+	2, 0, 0, 1271.46, -249.503, 220.3, 0, 2, 2, 1, 0, 1
+	1, 1, 0, -1588.38, 91.3525, 220.3, 0, 2, 2, 1, 0, 1
+	1, -1, 0, 2095.16, -773.14, 222.133, 0, 2, 2, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+1, 3121, Section_3road
+	2, 11, 0, 1158.22, 239.71, 211.606, 0, 2, 2, 1, 0, 1
+	2, 2, 0, -1242.16, -505.265, 211.606, 0, 2, 2, 1, 0, 1
+	2, 3, 0, -1242.07, -265.036, 211.606, 0, 2, 2, 1, 0, 1
+	2, 4, 0, -1108.25, 27.6699, 211.606, 0, 2, 2, 1, 0, 1
+	2, 5, 0, -810.728, 167.906, 211.606, 0, 2, 2, 1, 0, 1
+	2, 6, 0, -486.838, 222.224, 211.606, 0, 2, 2, 1, 0, 1
+	2, 7, 0, -165.005, 237.638, 211.606, 0, 2, 2, 1, 0, 1
+	2, 8, 0, 156.798, 239.711, 211.606, 0, 2, 2, 1, 0, 1
+	2, 9, 0, 478.653, 239.71, 211.606, 0, 2, 2, 1, 0, 1
+	2, 0, 0, 831.224, 239.71, 211.606, 0, 2, 2, 1, 0, 1
+	1, 1, 0, -1242.15, -590.322, 211.606, 0, 2, 2, 1, 0, 1
+	1, -1, 0, 1485.22, 239.711, 211.606, 0, 2, 2, 1, 0, 1
+0, 3122, dr_newtunnelrd
+	2, 5, 0, 203.2, 0, 81.2003, 2, 1, 1, 1, 0, 1
+	2, 2, 0, -203.2, 0, 81.2003, 2, 1, 1, 1, 0, 1
+	1, -1, 0, -203.2, -400, 2.39993, 2, 1, 1, 1, 0, 1
+	1, 0, 0, 203.2, 400, 160.001, 2, 1, 1, 1, 0, 1
+	1, 1, 0, -203.2, 400, 160.001, 2, 1, 1, 1, 0, 1
+	1, -1, 0, 203.2, -400, 2.39993, 2, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+1, 3122, dr_newtunnelrd
+	2, 5, 0, 0, -200, 39.4001, 0, 1, 1, 1, 0, 1
+	2, 2, 0, 0, 300, 143.239, 0, 1, 1, 1, 0, 1
+	2, 3, 0, 0, 200, 118.201, 0, 1, 1, 1, 0, 1
+	2, 0, 0, 0, 0, 78.8004, 0, 1, 1, 1, 0, 1
+	1, 1, 0, 0, 400, 157.601, 0, 1, 2, 1, 0, 1
+	1, -1, 0, 0, -400, 0, 0, 2, 2, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+1, 3142, sub_indland08
+	2, 5, 0, -144.519, 196.558, 130.041, 0, 1, 1, 1, 0, 1
+	2, 2, 0, -1259.18, 84.9191, 131.115, 0, 1, 1, 1, 0, 1
+	2, 3, 0, -1042.56, 160.189, 131.115, 0, 1, 1, 1, 0, 1
+	2, 4, 0, -807.919, 217.881, 131.115, 0, 1, 1, 1, 0, 1
+	2, -1, 0, -574.884, 228.09, 131.115, 0, 1, 1, 1, 0, 1
+	2, 4, 0, -329.198, 220.479, 129.012, 0, 1, 1, 1, 0, 1
+	1, 1, 0, -1440.52, 23.175, 132.594, 0, 1, 1, 1, 0, 1
+	1, 0, 0, -133.664, 191.971, 128.305, 0, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+1, 3143, topwarejunc
+	2, 2, 0, 0, 66.6667, -1.23999, 0, 1, 1, 1, 0, 1
+	1, 0, 0, 0, -200, -1.23999, 0, 1, 1, 1, 0, 1
+	1, -1, 0, 0, 200, -1.23999, 0, 1, 1, 1, 0, 1
+	1, 0, 0, 160, 66.6667, 1.16003, 0, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+0, 3143, topwarejunc
+	2, 5, 0, -118.355, 4.02362, 1.16003, 2, 1, 1, 1, 0, 1
+	2, 2, 0, 119.836, -26.5808, 1.16003, 2, 1, 1, 1, 0, 1
+	1, -1, 0, 119.836, 200, 1.16003, 2, 1, 1, 1, 0, 1
+	1, 0, 0, -118.355, -200, 1.16003, 2, 1, 1, 1, 0, 1
+	1, 1, 0, 119.836, -200, 1.16003, 2, 1, 1, 1, 0, 1
+	1, -1, 0, -118.355, 200, 1.16003, 2, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+0, 3161, sub_subway
+	2, 9, 0, 416.542, -358.291, 72.274, 2, 1, 1, 1, 0, 1
+	2, 2, 0, -468.65, 181.337, -83.5673, 2, 1, 1, 1, 0, 1
+	2, 3, 0, -275.07, 181.337, -5.27533, 2, 1, 1, 1, 0, 1
+	2, 4, 0, -81.498, 210.743, 73.0087, 2, 1, 1, 1, 0, 1
+	2, 5, 0, 87.4055, 221.414, 72.1751, 2, 1, 1, 1, 0, 1
+	2, 6, 0, 207.287, 86.4249, 73.5397, 2, 1, 1, 1, 0, 1
+	2, 7, 0, 338.921, -44.1178, 72.1864, 2, 1, 1, 1, 0, 1
+	2, 0, 0, 459.355, -180.006, 72.1754, 2, 1, 1, 1, 0, 1
+	1, 1, 0, -558.264, 222.6, -87.7358, 2, 1, 1, 1, 0, 1
+	1, -1, 0, 282.642, -402.213, 73.4055, 2, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+0, 3186, Dam_pod1
+	2, 6, 0, 67.5316, 658.587, 188.36, 2, 1, 1, 1, 0, 1
+	2, 2, 0, 54.332, -268.153, 183.478, 2, 1, 1, 1, 0, 1
+	2, 3, 0, -8.17454, 55.5283, 183.478, 2, 1, 1, 1, 0, 1
+	2, 4, 0, -102.979, 435.938, 183.726, 2, 1, 1, 1, 0, 1
+	2, 5, 0, -311.375, 533.949, 189.456, 2, 1, 1, 1, 0, 1
+	2, 6, 0, -279.76, 768.69, 184.444, 2, 1, 1, 1, 0, 1
+	2, -1, 0, -52.3382, 820.288, 184.444, 2, 1, 1, 1, 0, 1
+	1, 1, 0, 116.869, -570.978, 177.708, 2, 1, 1, 1, 0, 1
+	1, 0, 0, -16.3262, 483.996, 188.36, 2, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+0, 3194, new_GOD_DAM
+	2, 11, 0, -1459.69, -1007.66, 537.473, 2, 1, 1, 1, 0, 1
+	2, 2, 0, 809.396, 1768.89, 536.225, 2, 1, 1, 1, 0, 1
+	2, 3, 0, -291.471, 1193.73, 536.19, 2, 1, 1, 1, 0, 1
+	2, 4, 0, -1237.68, 184.869, 536.359, 2, 1, 1, 1, 0, 1
+	2, 9, 0, -1744.2, -868.748, 536.953, 2, 1, 1, 1, 0, 1
+	2, 0, 0, -1015.16, -27.9561, 536.693, 2, 1, 1, 1, 0, 1
+	2, 5, 0, -154.643, 896.789, 536.247, 2, 1, 1, 1, 0, 1
+	2, 6, 0, 891.463, 1464.93, 536.182, 2, 1, 1, 1, 0, 1
+	1, 7, 0, 2125.16, 1624.13, 539.043, 2, 1, 1, 1, 0, 1
+	1, -1, 0, -1863.85, -2162.81, 537.681, 2, 1, 1, 1, 0, 1
+	1, 1, 0, 2125.16, 1942.93, 539.043, 2, 1, 1, 1, 0, 1
+	1, -1, 0, -1590.59, -2174.71, 539.937, 2, 1, 1, 1, 0, 1
+1, 3196, dam_base
+	2, 8, 0, -748.7, -295.881, 187.133, 0, 1, 1, 1, 0, 1
+	2, 2, 0, 1080.32, 754.436, 187.133, 0, 1, 1, 1, 0, 1
+	2, 3, 0, 690.576, 732.317, 187.133, 0, 1, 1, 1, 0, 1
+	2, 4, 0, 358.27, 590.982, 187.133, 0, 1, 1, 1, 0, 1
+	2, 5, 0, 35.443, 417.782, 187.133, 0, 1, 1, 1, 0, 1
+	2, 6, 0, -264.202, 174.127, 187.133, 0, 1, 1, 1, 0, 1
+	2, 0, 0, -534.471, -54.7871, 187.133, 0, 1, 1, 1, 0, 1
+	1, 1, 0, 1454.04, 675.135, 187.133, 0, 1, 1, 1, 0, 1
+	1, -1, 0, -990.068, -602.666, 187.133, 0, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+0, 3196, dam_base
+	2, 10, 0, -427.253, -198.072, 187.133, 2, 1, 1, 1, 0, 1
+	2, 2, 0, 874.284, 851.089, 187.364, 2, 1, 1, 1, 0, 1
+	2, 3, 0, 353.328, 701.766, 190.276, 2, 1, 1, 1, 0, 1
+	2, 4, 0, -105.588, 375.57, 187.133, 2, 1, 1, 1, 0, 1
+	2, 8, 0, -680.385, 9.84943, 187.133, 2, 1, 1, 1, 0, 1
+	2, 0, 0, 99.8772, 361.885, 187.133, 2, 1, 1, 1, 0, 1
+	2, 5, 0, 971.272, 704.701, 187.133, 2, 1, 1, 1, 0, 1
+	1, 6, 0, 1452.59, 612.768, 187.133, 2, 1, 1, 1, 0, 1
+	1, -1, 0, -1131.76, -593.387, 187.133, 2, 1, 1, 1, 0, 1
+	1, 1, 0, 1453.7, 764.589, 187.142, 2, 1, 1, 1, 0, 1
+	1, -1, 0, -758.615, -633.925, 187.133, 2, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+1, 3198, Siu_Roadpart_01
+	2, 4, 0, 224.225, -99.8574, 33.155, 0, 1, 1, 1, 0, 1
+	2, 2, 0, 612.459, -358.354, -18.9709, 0, 1, 1, 1, 0, 1
+	2, 0, 0, 455.152, -237.761, 2.60397, 0, 1, 1, 1, 0, 1
+	1, 1, 0, 743.369, -475.978, -36.9516, 0, 2, 2, 1, 0, 1
+	1, -1, 0, 65.4922, -22.0093, 53.597, 0, 2, 2, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+1, 3199, siusubnewrds09
+	2, 2, 0, -0.0605469, 279.174, 42.7411, 0, 1, 1, 1, 0, 1
+	1, 0, 0, -0.0605469, 119.175, 42.7411, 0, 1, 1, 1, 0, 1
+	1, -1, 0, -0.0605469, 439.175, 42.7411, 0, 1, 1, 1, 0, 1
+	1, 0, 0, 159.939, 279.177, 42.7414, 0, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+1, 3200, siu_CrossRoads1a
+	2, 4, 0, 32.8066, 343.016, 0.342407, 0, 1, 1, 1, 0, 1
+	2, 2, 0, 8.78711, 73.6514, 0.342407, 0, 1, 1, 1, 0, 1
+	2, 0, 0, 35.1367, 207.834, 0.342407, 0, 1, 1, 1, 0, 1
+	1, 1, 0, -9.75684, -60.3022, 0.342407, 0, 0, 2, 1, 0, 1
+	1, -1, 0, -1.99023, 506.367, 0.342407, 0, 2, 0, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+0, 3200, siu_CrossRoads1a
+	2, 4, 0, -84.0654, 327.813, 2.7424, 2, 1, 1, 1, 0, 1
+	2, 2, 0, -117.195, 70.3349, 2.7424, 2, 1, 1, 1, 0, 1
+	2, 0, 0, -85.8535, 200.993, 2.7424, 2, 1, 1, 1, 0, 1
+	1, 1, 0, -132.949, -60.1839, 2.74246, 2, 1, 1, 1, 0, 1
+	1, -1, 0, -118.302, 458.118, 2.84897, 2, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+1, 3201, dr_pathbodge1
+	2, -1, 0, -56.7813, -34.769, 32.7819, 0, 1, 1, 1, 0, 1
+	1, 0, 0, -56.7861, -194.772, 32.7819, 0, 1, 1, 1, 0, 1
+	1, 0, 0, -56.7832, 125.23, 32.7819, 0, 1, 1, 1, 0, 1
+	1, 0, 0, 103.219, -34.769, 32.7819, 0, 1, 1, 1, 0, 1
+	1, 0, 0, -216.781, -34.769, 32.7819, 0, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+0, 3202, dr_pathbodge2
+	2, 2, 1, 147.225, -163.616, 35.1819, 2, 1, 1, 1, 0, 1
+	2, 3, 1, -110.797, 93.1978, 35.1819, 2, 1, 1, 1, 0, 1
+	2, 1, 1, -109.656, -163.616, 35.1819, 2, 1, 1, 1, 0, 1
+	2, 0, 1, 153.67, 96.6343, 35.1819, 2, 1, 1, 1, 0, 1
+	1, 3, 0, 180.377, 85.231, 35.1819, 2, 1, 1, 1, 0, 1
+	1, 3, 0, 140.377, 125.231, 35.1819, 2, 1, 1, 1, 0, 1
+	1, 2, 0, -139.623, -154.769, 35.1819, 2, 1, 1, 1, 0, 1
+	1, 1, 0, -99.623, 125.231, 35.1819, 2, 1, 1, 1, 0, 1
+	1, 2, 0, -99.623, -194.769, 35.1819, 2, 1, 1, 1, 0, 1
+	1, 0, 0, 180.377, -154.769, 35.1819, 2, 1, 1, 1, 0, 1
+	1, 1, 0, -139.623, 85.231, 35.1819, 2, 1, 1, 1, 0, 1
+	1, 0, 0, 140.377, -194.769, 35.1819, 2, 1, 1, 1, 0, 1
+1, 3203, siupath01
+	2, 2, 0, -204.103, -280.827, 2.74103, 0, 1, 1, 1, 0, 1
+	1, 0, 0, -0.431187, 119.173, 42.7413, 0, 1, 1, 1, 0, 1
+	1, -1, 0, -399.811, -680.827, -37.2592, 0, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+0, 3204, siupath02
+	2, 5, 0, -143.557, -280.826, 5.14099, 2, 1, 1, 1, 0, 1
+	2, 2, 0, 98.7541, -280.827, 5.14087, 2, 1, 1, 1, 0, 1
+	1, -1, 0, 302.776, 119.173, 45.1409, 2, 1, 1, 1, 0, 1
+	1, 0, 0, 60.4641, 119.175, 45.1412, 2, 1, 1, 1, 0, 1
+	1, 1, 0, -97.2674, -680.827, -34.8592, 2, 1, 1, 1, 0, 1
+	1, -1, 0, -339.579, -680.827, -34.8592, 2, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+0, 3205, siupath03
+	2, 8, 0, 60.3833, 501.097, 45.1411, 2, 1, 1, 1, 0, 1
+	2, 4, 0, 310.765, 370.654, 45.1409, 2, 1, 1, 1, 0, 1
+	2, 5, 0, 311.928, 633.185, 45.1409, 2, 1, 1, 1, 0, 1
+	1, 2, 0, 340.326, 624.18, 45.1417, 2, 1, 1, 1, 0, 1
+	1, -1, 0, 340.326, 379.926, 45.1417, 2, 1, 1, 1, 0, 1
+	1, -1, 0, 302.78, 661.096, 45.1409, 2, 1, 1, 1, 0, 1
+	1, 0, 0, 60.3833, 661.098, 45.1411, 2, 1, 1, 1, 0, 1
+	1, 1, 0, 302.737, 341.096, 45.1412, 2, 1, 1, 1, 0, 1
+	1, -1, 0, 60.3833, 341.098, 45.1412, 2, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+0, 3206, siupath04
+	2, 2, 0, -416.955, 381.113, 116.001, 1.2, 1, 1, 1, 0, 1
+	2, 0, 0, -227.715, 315.743, 94.9505, 2, 1, 1, 1, 0, 1
+	2, 6, 0, -527.202, 423.813, 129.209, 1.2, 1, 1, 1, 0, 1
+	2, 5, 0, -381.648, -55.9581, 95.0171, 2, 1, 1, 1, 0, 1
+	1, 3, 0, -12.3883, -209.754, 56.964, 2, 1, 1, 1, 0, 1
+	1, -1, 0, -751.742, 96.0332, 134.715, 2, 1, 1, 1, 0, 1
+	1, -1, 0, -597.301, 468.898, 134.69, 2, 1, 1, 1, 0, 1
+	1, 1, 0, 141.729, 162.315, 56.9566, 2, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+1, 3207, siupath05
+	2, 2, 0, -304.038, 131.064, 143.019, 0, 1, 1, 1, 0, 1
+	1, 0, 0, -673.582, 284.149, 183.419, 0, 1, 1, 1, 0, 1
+	1, -1, 0, 65.6405, -21.918, 103.803, 0, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+0, 3208, siupath06
+	2, 9, 0, 128.436, -279.064, 148.1, 2, 1, 1, 1, 0, 1
+	2, 2, 0, 741.368, -201.278, 89.3586, 2, 1, 1, 1, 0, 1
+	2, 3, 0, 568.045, -68.8069, 113.503, 2, 1, 1, 1, 0, 1
+	2, 7, 0, 320.012, 79.3489, 145.716, 2, 1, 1, 1, 0, 1
+	2, 0, 0, 342.262, -406.716, 119.145, 2, 1, 1, 1, 0, 1
+	2, 4, 0, 483.551, -515.43, 99.7696, 2, 1, 1, 1, 0, 1
+	1, 5, 0, 599.591, -619.781, 76.6099, 2, 1, 1, 1, 0, 1
+	1, -1, 0, 143.253, 165.723, 167.16, 2, 1, 1, 1, 0, 1
+	1, 1, 0, 885.721, -333.632, 76.5225, 2, 1, 1, 1, 0, 1
+	1, -1, 0, -12.2705, -209.741, 167.16, 2, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+1, 3209, siupath07
+	2, -1, 0, 1599.94, 1159.17, 362.741, 0, 1, 1, 1, 0, 1
+	1, 0, 0, 1359.94, 1159.17, 362.741, 0, 1, 1, 1, 0, 1
+	1, 0, 0, 1599.94, 1319.17, 362.741, 0, 2, 2, 1, 0, 1
+	1, 0, 0, 1599.94, 999.174, 362.741, 0, 2, 2, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+0, 3210, siupath08
+	2, 1, 0, 798.389, 699.281, 45.1407, 1, 1, 1, 1, 1, 1
+	2, 2, 0, 744.813, 841.495, 45.1407, 1, 1, 1, 1, 1, 1
+	2, 3, 0, 604.746, 932.866, 45.1407, 1, 1, 1, 1, 1, 1
+	2, 4, 0, 488.692, 1072.39, 45.1407, 1, 1, 1, 1, 1, 1
+	2, 5, 0, 372.595, 1166.01, 45.1407, 1, 1, 1, 1, 1, 1
+	2, 6, 0, 513.37, 1219.3, 45.1407, 1, 1, 1, 1, 1, 1
+	2, 7, 0, 675.305, 1166.01, 45.1407, 1, 1, 1, 1, 1, 1
+	2, 8, 0, 626.086, 1072.6, 45.1407, 1, 1, 1, 1, 1, 1
+	2, 9, 0, 715.21, 926.221, 45.1407, 1, 1, 1, 1, 1, 1
+	2, 0, 0, 834.906, 817.59, 45.1407, 1, 1, 1, 1, 1, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+0, 3211, siupath09
+	2, 1, 0, -1003.92, 477.666, 114.616, 1, 1, 1, 1, 1, 1
+	2, 2, 0, -958.093, 128.226, 114.615, 1, 1, 1, 1, 1, 1
+	2, 3, 0, -861.302, -14.8275, 114.615, 1, 1, 1, 1, 1, 1
+	2, 4, 0, -750.796, -69.4576, 114.615, 1, 1, 1, 1, 1, 1
+	2, 5, 0, -717.949, -199.832, 114.615, 1, 1, 1, 1, 1, 1
+	2, 6, 0, -920.948, -205.979, 114.615, 1, 1, 1, 1, 1, 1
+	2, 0, 0, -993.982, 46.4972, 114.616, 1, 1, 1, 1, 1, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+0, 3212, siupath10
+	2, 1, 0, -818.193, -1201.96, 227.913, 1, 1, 1, 1, 1, 1
+	2, 2, 0, -947.432, -1165.91, 227.913, 1, 1, 1, 1, 1, 1
+	2, 3, 0, -961.211, -1034.23, 227.913, 1, 1, 1, 1, 1, 1
+	2, 4, 0, -921.615, -923.261, 227.913, 1, 1, 1, 1, 1, 1
+	2, 5, 0, -819.182, -822.005, 227.913, 2, 1, 1, 1, 1, 1
+	2, 6, 0, -717.814, -800.279, 227.913, 1, 1, 1, 1, 1, 1
+	2, 7, 0, -683.365, -952.627, 227.913, 1, 1, 1, 1, 1, 1
+	2, 0, 0, -823.844, -1006.14, 227.913, 1, 1, 1, 1, 1, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+0, 3213, siupath11
+	2, 1, 0, -461.859, -1168.47, 303.746, 1, 1, 1, 1, 1, 1
+	2, 2, 0, -343.602, -1267.96, 303.747, 1, 1, 1, 1, 1, 1
+	2, 3, 0, -115.971, -1270.74, 303.747, 1, 1, 1, 1, 1, 1
+	2, 4, 0, 99.5249, -1247.21, 303.746, 1, 1, 1, 1, 1, 1
+	2, 5, 0, 219.66, -1122.03, 303.746, 1, 1, 1, 1, 1, 1
+	2, 6, 0, 292.825, -997.369, 303.746, 1, 1, 1, 1, 1, 1
+	2, 7, 0, 374.167, -1143.61, 303.746, 1, 1, 1, 1, 1, 1
+	2, 8, 0, 289.707, -1255.73, 303.746, 1, 1, 1, 1, 1, 1
+	2, 9, 0, 80.3896, -1295.37, 303.746, 1, 1, 1, 1, 1, 1
+	2, 10, 0, -320.1, -1306.69, 303.747, 1, 1, 1, 1, 1, 1
+	2, 0, 0, -460.807, -1297.1, 303.747, 1, 1, 1, 1, 1, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+1, 3214, siupath22
+	2, 5, 0, 403.779, 584.339, 39.1073, 0, 1, 1, 1, 0, 1
+	2, 2, 0, -238.721, 730.02, 45.1966, 0, 1, 1, 1, 0, 1
+	2, 3, 0, -136.455, 746.047, 45.1966, 0, 1, 1, 1, 0, 1
+	2, 0, 0, 49.6312, 746.15, 45.3904, 0, 1, 1, 1, 0, 1
+	1, 1, 0, -329.088, 665.169, 45.1966, 0, 1, 1, 1, 0, 1
+	1, -1, 0, 484.728, 585.554, 39.1073, 0, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+1, 3215, siupath12
+	2, 10, 0, 952.937, -645.291, 514.674, 0, 1, 1, 1, 0, 1
+	2, 2, 0, -502.635, 1549.52, 166.642, 0, 1, 1, 1, 0, 1
+	2, 3, 0, -502.635, 1249.52, 166.642, 0, 1, 1, 1, 0, 1
+	2, 4, 0, -502.763, 997.852, 202.803, 0, 1, 1, 1, 0, 1
+	2, 5, 0, -454.663, 601.733, 272.783, 0, 1, 1, 1, 0, 1
+	2, 6, 0, -313.166, 228.637, 340.12, 0, 1, 1, 1, 0, 1
+	2, 7, 0, -86.4932, -99.7559, 393.969, 0, 1, 1, 1, 0, 1
+	2, 8, 0, 212.184, -364.36, 438.536, 0, 1, 1, 1, 0, 1
+	2, 0, 0, 565.504, -549.798, 478.294, 0, 1, 1, 1, 0, 1
+	1, 1, 0, -502.635, 1949.52, 166.642, 0, 1, 1, 1, 0, 1
+	1, -1, 0, 1152.45, -657.359, 526.739, 0, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+1, 3216, siupath13
+	2, 10, 0, 1061.07, -775.933, 514.674, 0, 1, 1, 1, 0, 1
+	2, 2, 0, -675.929, 1736.55, 166.642, 0, 1, 1, 1, 0, 1
+	2, 3, 0, -675.929, 1436.55, 168.636, 0, 1, 1, 1, 0, 1
+	2, 4, 0, -676.057, 1184.88, 202.803, 0, 1, 1, 1, 0, 1
+	2, 5, 0, -618.659, 712.178, 272.783, 0, 1, 1, 1, 0, 1
+	2, 6, 0, -449.806, 266.95, 340.12, 0, 1, 1, 1, 0, 1
+	2, 7, 0, -179.311, -124.93, 393.969, 0, 1, 1, 1, 0, 1
+	2, 8, 0, 177.108, -440.689, 438.536, 0, 1, 1, 1, 0, 1
+	2, 0, 0, 598.736, -661.978, 478.294, 0, 1, 1, 1, 0, 1
+	1, 1, 0, -675.929, 2136.55, 166.642, 0, 1, 1, 1, 0, 1
+	1, -1, 0, 1299.16, -790.334, 526.739, 0, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+0, 3217, siupath14
+	2, 8, 0, 225.298, -168.782, 128.544, 2, 1, 1, 1, 0, 1
+	2, 4, 0, 405.901, -39.4898, 131.238, 2, 1, 1, 1, 0, 1
+	2, 5, 0, 80.625, 93.2914, 131.808, 2, 1, 1, 1, 0, 1
+	1, 2, 0, 77.9898, 120, 129.968, 2, 1, 1, 1, 0, 1
+	1, -1, 0, 484.989, -200.005, 127.568, 2, 1, 1, 1, 0, 1
+	1, -1, 0, 58.8886, 83.4436, 131.479, 2, 1, 1, 1, 0, 1
+	1, 0, 0, 184.234, -163.2, 127.568, 2, 1, 1, 1, 0, 1
+	1, 1, 0, 324.988, 120, 129.968, 2, 1, 1, 1, 0, 1
+	1, -1, 0, 242.122, -200.005, 127.568, 2, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+1, 3218, siupath15
+	2, 2, 0, 283.361, -40.0001, 156.092, 0, 1, 1, 1, 0, 1
+	1, 0, 0, 359.998, -200.005, 156.092, 0, 1, 1, 1, 0, 1
+	1, -1, 0, 199.998, 120, 158.492, 0, 1, 1, 1, 0, 1
+	1, 0, 0, 123.62, -40.0002, 156.092, 0, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+1, 3219, siupath16
+	2, -1, 0, 0, -40, 194.91, 0, 1, 1, 1, 0, 1
+	1, 0, 0, -40, -40, 194.91, 0, 1, 1, 1, 0, 1
+	1, 0, 0, 40, -40, 194.91, 0, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+0, 3220, siupath17
+	2, -1, 0, 0, 80, 233.682, 2, 1, 1, 1, 0, 1
+	2, -1, 0, 0, -160, 233.682, 2, 1, 1, 1, 0, 1
+	1, 0, 0, 40, 80, 233.682, 2, 1, 1, 1, 0, 1
+	1, 0, 0, -40, 80, 233.682, 2, 1, 1, 1, 0, 1
+	1, 1, 0, -40, -160, 233.682, 2, 1, 1, 1, 0, 1
+	1, 1, 0, 40, -160, 233.682, 2, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+0, 3221, siupath18
+	2, 5, 0, -440.001, 83.2, 325.297, 2, 1, 1, 1, 0, 1
+	2, 2, 0, -440.001, -163.2, 325.297, 2, 1, 1, 1, 0, 1
+	1, -1, 0, -40.001, -163.2, 285.297, 2, 1, 1, 1, 0, 1
+	1, 0, 0, -840.001, 83.2, 365.297, 2, 1, 1, 1, 0, 1
+	1, 1, 0, -840.001, -163.2, 365.297, 2, 1, 1, 1, 0, 1
+	1, -1, 0, -40.001, 83.2, 285.297, 2, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+1, 3222, siupath19
+	2, 2, 0, -440.001, -40, 390.099, 0, 1, 1, 1, 0, 1
+	1, 0, 0, -840.001, -40, 424.823, 0, 1, 1, 1, 0, 1
+	1, -1, 0, -40.001, -40, 344.822, 0, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+1, 3223, siupath20
+	2, 11, 0, -2425.31, 231.633, 17.4009, 0, 1, 1, 1, 0, 1
+	2, 2, 0, 773.254, 197.199, 16.1815, 0, 1, 1, 1, 0, 1
+	2, 3, 0, 567.324, 163.377, 31.1154, 0, 1, 1, 1, 0, 1
+	2, 4, 0, 108.929, 64.5964, 93.0604, 0, 1, 1, 1, 0, 1
+	2, 5, 0, -335.385, -20.9893, 154.33, 0, 1, 1, 1, 0, 1
+	2, 6, 0, -606.316, -43.1494, 178.031, 0, 1, 1, 1, 0, 1
+	2, 7, 0, -1066.23, -20.8865, 191.532, 0, 1, 1, 1, 0, 1
+	2, 8, 0, -1407.23, 30.1685, 161.672, 0, 1, 1, 1, 0, 1
+	2, 9, 0, -1732.04, 109.899, 111.67, 0, 1, 1, 1, 0, 1
+	2, 0, 0, -2063.71, 187.366, 58.0668, 0, 1, 1, 1, 0, 1
+	1, 1, 0, 920.936, 206.594, 10.5836, 0, 1, 1, 1, 0, 1
+	1, -1, 0, -2624.47, 231.989, 6.63599, 0, 1, 1, 1, 0, 1
+0, 3224, siupath21
+	2, 11, 0, -2425.31, 111.095, 80.8223, 2, 1, 1, 1, 0, 1
+	2, 2, 0, 773.254, 76.6611, 79.603, 2, 1, 1, 1, 0, 1
+	2, 3, 0, 567.323, 42.8389, 94.5369, 2, 1, 1, 1, 0, 1
+	2, 4, 0, 108.928, -55.9414, 156.482, 2, 1, 1, 1, 0, 1
+	2, 5, 0, -335.386, -141.527, 217.751, 2, 1, 1, 1, 0, 1
+	2, 6, 0, -606.317, -163.688, 241.452, 2, 1, 1, 1, 0, 1
+	2, 7, 0, -1066.23, -141.424, 254.953, 2, 1, 1, 1, 0, 1
+	2, 8, 0, -1407.23, -90.3696, 225.093, 2, 1, 1, 1, 0, 1
+	2, 9, 0, -1732.04, -10.6392, 175.092, 2, 1, 1, 1, 0, 1
+	2, 0, 0, -2063.71, 66.8286, 121.488, 2, 1, 1, 1, 0, 1
+	1, 1, 0, 920.942, 86.0474, 74.0054, 2, 1, 1, 1, 0, 1
+	1, -1, 0, -2624.45, 111.448, 70.0579, 2, 1, 1, 1, 0, 1
+1, 3225, siupath23
+	2, 8, 0, 1566.88, 1748.07, 536.268, 0, 1, 1, 1, 0, 1
+	2, 2, 0, -1682.23, -1439.05, 538.002, 0, 1, 1, 1, 0, 1
+	2, 3, 0, -1493.16, -680.458, 537.275, 0, 1, 1, 1, 0, 1
+	2, 4, 0, -1102.8, 70.083, 536.693, 0, 1, 1, 1, 0, 1
+	2, 5, 0, -557.859, 729.533, 536.359, 0, 1, 1, 1, 0, 1
+	2, 6, 0, 215.625, 1302.78, 536.204, 0, 1, 1, 1, 0, 1
+	2, 0, 0, 882.619, 1592.47, 536.182, 0, 1, 1, 1, 0, 1
+	1, 1, 0, -1724, -2168.76, 538.809, 0, 1, 1, 1, 0, 1
+	1, -1, 0, 2125.16, 1784.13, 539.043, 0, 1, 1, 1, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+end
+2dfx
+2602, -25.1118, -8.65097, -1.11649, 108, 8, 136, 0, 1, 0, -4.37114e-010, 0, -0.005, 0.5
+2602, -20.4313, 9.39554, -1.10036, 108, 8, 136, 0, 1, 0, -4.37114e-010, 0, -0.005, 0.5
+2602, 16.3918, 13.5811, 27.3007, 108, 8, 136, 0, 1, 0, 2.29048e-008, 0, 0.262, 0.83
+2602, -17.8972, -11.9235, -1.07522, 108, 8, 136, 0, 1, 0, -4.37114e-010, 0, -0.005, 0.5
+2602, -2.8031, -11.9235, -1.07522, 108, 8, 136, 0, 1, 0, 1.00536e-008, 0, 0.115, 0.69
+2602, 10.2465, -11.9235, -1.07522, 108, 8, 136, 0, 1, 0, 4.28372e-009, 0, 0.049, 0.579
+2774, -2.93549, -10.8422, -8.40044, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2774, 2.87579, -10.8422, -8.40044, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2847, 33.9001, 4.03162, 0.617114, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2847, 65.0819, -25.5699, 0.0318689, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2847, 27.9945, -10.5857, 0.0318689, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2847, -9.09277, 4.39868, 0.0318689, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2847, -46.1802, 19.3829, 0.0318689, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2847, -83.2676, 34.3671, 0.0318689, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2847, -120.355, 49.3514, 0.0318689, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2847, -114.449, 63.9686, 0.617114, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2847, -77.3618, 48.9845, 0.617114, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2847, -40.2745, 34.0001, 0.617114, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2847, -3.18726, 19.0159, 0.617114, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2847, 102.169, -40.5542, 0.0318689, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2847, 70.9874, -10.9526, 0.617114, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2847, 108.075, -25.9369, 0.617114, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2847, -126.325, 34.5753, 0.617114, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2847, -89.2374, 19.5909, 0.617114, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2847, -52.1501, 4.60681, 0.617114, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2847, -15.0627, -10.3774, 0.617114, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2847, 22.0247, -25.3617, 0.617114, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2847, 59.1119, -40.3461, 0.617114, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2847, 96.1993, -55.3303, 0.617114, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2853, 16.6829, 15.6337, 0.654957, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2853, 96.683, -0.131592, 0.0458364, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2853, 56.683, -0.131592, 0.0562334, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2853, 16.683, -0.131592, 0.0759869, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2853, -23.317, -0.131592, 0.0760508, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2853, -63.317, -0.131592, 0.0763721, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2853, -103.317, -0.131592, 0.075983, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2853, -143.317, -0.131592, 0.0804424, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2853, -143.317, 15.6337, 0.652107, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2853, -103.317, 15.6337, 0.63011, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2853, -63.3171, 15.6337, 0.641266, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2853, -23.3171, 15.6337, 0.64837, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2853, 136.683, -0.131592, -0.145299, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2853, 56.6829, 15.6337, 0.641479, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2853, 96.6829, 15.6337, 0.631082, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2853, 136.683, 15.6337, 0.439946, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2853, -143.317, -16.0681, 0.665627, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2853, -103.317, -16.0681, 0.630761, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2853, -63.317, -16.0681, 0.645535, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2853, -23.317, -16.0681, 0.64791, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2853, 16.683, -16.0681, 0.640326, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2853, 56.683, -16.0681, 0.641479, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2853, 96.683, -16.0681, 0.631082, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2853, 136.683, -16.0681, 0.439946, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2854, 29.3489, 15.6337, 0.626003, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2854, 109.349, -0.131592, 0.0760832, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2854, 69.349, -0.131592, 0.077137, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2854, 29.349, -0.131592, 0.0755358, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2854, -10.651, -0.131592, 0.0776577, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2854, -50.651, -0.131592, 0.0780735, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2854, -90.651, -0.131592, 0.0715952, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2854, 109.349, 15.6337, 0.649239, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2854, 109.349, -16.0681, 0.645318, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2854, -90.6511, 15.6337, 0.654019, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2854, -50.6511, 15.6337, 0.65661, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2854, -10.6511, 15.6337, 0.617355, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2854, 69.3489, 15.6337, 0.653486, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2854, 69.349, -16.0681, 0.649549, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2854, -10.651, -16.0681, 0.649196, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2854, -50.651, -16.0681, 0.649581, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2854, -90.651, -16.0681, 0.657567, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2854, 29.349, -16.0681, 0.606471, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2854, 149.349, -0.131592, 0.0869217, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2854, -130.651, 15.6337, 0.635772, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2854, -130.651, -16.0681, 0.655713, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2854, -130.651, -0.131592, 0.0700264, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2854, 149.349, 15.6337, 0.636658, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2854, 149.349, -16.0681, 0.644398, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2872, -47.1171, -10.3943, 0.127789, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2872, -47.1171, 24.278, 0.127789, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2872, -39.1046, 57.3376, 0.127789, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2872, -5.36963, 63.7429, 0.127789, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2872, 32.2556, 63.7429, 0.127789, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2872, -47.1171, -46.3843, 0.127789, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2921, 8.96668, -17.5048, -1.07865, 86, 86, 86, 200, 1, 1, 9.53674e-010, -0.004, -1.01152e-009, 1
+2921, -27.3682, -12.7918, -1.07865, 86, 86, 86, 200, 1, 1, 6.84576e-010, -0.003, -7.58643e-010, 1
+2921, -42.5079, -12.8255, -1.07865, 86, 86, 86, 200, 1, 1, 1.14096e-009, -0.005, -1.26441e-009, 1
+2921, -55.6371, 11.6019, -1.07865, 86, 86, 86, 200, 1, 1, -0.009, -2.15377e-009, -1.02049e-009, 0.5
+2921, 37.2177, -17.5048, -1.07865, 86, 86, 86, 200, 1, 1, 1.43051e-009, -0.006, -1.51729e-009, 0.5
+2921, 55.5604, -1.03291, -1.07865, 86, 86, 86, 200, 1, 1, 0.006, 1.89673e-009, -1.03424e-009, 0.8
+2921, 42.7468, 17.5191, -1.07865, 86, 86, 86, 200, 1, 1, -7.86805e-010, 0.009, -2.27593e-009, 1
+2921, 8.73193, 17.5191, -1.07865, 86, 86, 86, 200, 1, 1, -7.86805e-010, 0.009, -2.27593e-009, 0.4
+2921, 10.5986, 17.5191, -1.07865, 86, 86, 86, 200, 1, 1, -7.86805e-010, 0.009, -2.27593e-009, 1
+2921, 23.768, -13.4919, 10.9383, 86, 86, 86, 200, 1, 0, 6.28481e-010, -2.27593e-009, 0.009, 4
+2923, 28.54, -5.50446, 4.25263, 86, 86, 86, 200, 1, 0, 9.61651e-010, 3.49652e-010, 0.022, 0.645
+2923, 15.0669, -5.32677, 3.85041, 86, 86, 86, 200, 1, 0, 3.4532e-009, 1.25557e-009, 0.079, 0.553
+2923, -36.1197, -19.8607, 8.83234, 86, 86, 86, 200, 1, 0, -2.18557e-010, -7.94664e-011, -0.005, 0.677
+2949, -13.066, -28.6939, -7.98447, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 0, 1, 0, 40, 0, 0, 0, 0
+2949, -8.25732, -28.6939, -7.98447, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 0, 1, 0, 40, 0, 0, 0, 0
+2949, -8.25732, -18.7656, -3.39282, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 0, 1, 0, 40, 0, 0, 0, 0
+2949, -13.066, -18.7656, -3.39282, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 0, 1, 0, 40, 0, 0, 0, 0
+2949, -5.49017, -6.8717, 2.81855, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 0, 1, 0, 40, 0, 0, 0, 0
+2949, -13.3765, -6.8717, 2.81855, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 0, 1, 0, 40, 0, 0, 0, 0
+2949, -13.3765, -8.76642, 2.81855, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 0, 1, 0, 40, 0, 0, 0, 0
+2949, -5.49017, -8.76642, 2.81855, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 0, 1, 0, 40, 0, 0, 0, 0
+3015, -83.2939, 8.34644, 1.33125, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3015, -2.19287, -8.04846, 1.33125, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3015, -56.2563, 3.16486, 1.33125, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3015, -29.2241, -7.95422, 1.33125, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3015, -110.279, 8.39154, 1.33125, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3016, -33.7639, -0.125641, 0.127789, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3016, -14.5262, 25.2123, 0.127789, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3016, 12.5101, 36.9192, 0.127789, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3016, -33.7639, -27.1476, 0.127789, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3016, 39.4968, 48.2604, 0.127789, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3017, -7.93774, -7.82343, 0.127789, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3017, 11.5535, 14.0646, 0.127789, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3018, 3.64514, -14.8988, 0.127789, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3018, 3.66895, 13.5074, 0.127789, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3018, -24.7273, 13.5074, 0.127789, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3019, 19.4567, -45.8681, 0.127789, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3019, 20.1738, -15.1436, 0.127789, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3019, -7.62329, -63.9622, 0.127789, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3019, 20.1738, 46.4428, 0.127789, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3019, 20.1738, 12.4982, 0.127789, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3020, 64.3434, 9.72632, 0.127789, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3020, -0.849121, 9.72632, 0.127789, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3020, -29.2454, 9.72632, 0.127789, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3020, -87.5211, -3.65808, 0.127789, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3020, 31.1714, 9.72632, 0.127789, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3020, -60.769, 9.72632, 0.127789, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3021, 19.3441, -4.5495, 0.127789, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3021, -13.4718, 0.652588, 0.127789, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3022, 57.5541, -0.191467, 0.127789, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3022, -7.1416, -0.191467, 0.127789, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3022, 26.0304, -0.191467, 0.127789, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3022, -39.1621, -0.191467, 0.127789, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3023, 0.0379639, 9.90851, 0.127789, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3023, 0.0379639, 39.6389, 0.127789, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3023, 0.0379639, -21.9474, 0.127789, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3023, 0.0379639, -51.6779, 0.127789, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3024, -9.31897, -35.1196, 0.127789, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3024, 29.0647, -35.1196, 0.127789, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3024, 59.8778, -21.217, 0.127789, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3024, 60.7892, 9.375, 0.127789, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3024, -48.986, -35.1196, 0.127789, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3024, 60.7892, 37.3828, 0.127789, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3071, 0.0164795, 37.3966, 25.1622, 255, 24, 24, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3072, -0.46167, -31.6558, 26.7003, 255, 24, 24, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3090, 0.092, -0.269, 7.749, 255, 255, 255, 200, 1, 5, 1, 1, 1, 1
+3102, 8.52771, -0.37156, 1.07008, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 0, 1, 8, 40, 1, 0, 0, 0
+3102, 0.708988, -0.371561, 1.07008, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 0, 1, 8, 40, 1, 0, 0, 0
+3102, 0.708988, 1.12679, 1.07008, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 0, 1, 8, 40, 1, 0, 0, 0
+3102, 8.52771, 1.12679, 1.07008, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 0, 1, 8, 40, 1, 0, 0, 0
+3102, 12.5919, 1.12679, 1.07008, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3102, 12.5919, -0.37156, 1.07008, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3102, -3.35522, -0.371561, 1.07008, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 0, 1, 8, 40, 1, 0, 0, 0
+3102, -3.35522, 1.12679, 1.07008, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 0, 1, 8, 40, 1, 0, 0, 0
+3104, 3.4917, -0.823783, 1.07008, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 0, 1, 8, 40, 1, 0, 0, 0
+3104, 3.4917, 0.674569, 1.07008, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 0, 1, 8, 40, 1, 0, 0, 0
+3104, -0.57251, -0.823783, 1.07008, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 0, 1, 8, 40, 1, 0, 0, 0
+3104, -0.57251, 0.674569, 1.07008, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 0, 1, 8, 40, 1, 0, 0, 0
+3112, 12.7524, 0.162845, 4.01741, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 0, 1, 8, 40, 1, 0, 0, 0
+3112, 12.7526, 1.65332, 4.01741, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 0, 1, 8, 40, 1, 0, 0, 0
+3112, 14.5907, 1.59766, 4.01741, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 0, 1, 8, 40, 1, 0, 0, 0
+3112, 14.5907, 0.107421, 4.01741, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 0, 1, 8, 40, 1, 0, 0, 0
+3114, -62.6675, 10.3341, 21.2879, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3114, 20.4724, 19.8061, 23.8132, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3114, 20.4724, 9.80109, 23.8132, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3114, -20.5548, 19.8061, 22.5736, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3114, -20.5548, 9.80109, 22.5736, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3114, -59.0191, 1.63367, 19.9653, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3114, 61.3798, 9.80109, 21.4767, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3114, 61.3798, 19.8061, 21.4914, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3115, -17.7743, 2.71997, 24.1557, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3115, -11.766, 10.9204, 24.2696, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3115, -47.5224, 32.4988, 21.2289, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3115, -53.5307, 24.2983, 21.2788, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3115, 17.9216, -16.0541, 28.0207, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3115, 22.3868, -6.79187, 28.1335, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3115, 57.0966, -31.5882, 28.1842, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3115, 98.0622, -38.7918, 28.2981, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3115, 91.7876, -47.382, 28.3485, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 1, 1
+3115, 61.5618, -22.326, 28.1347, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3116, -62.1311, -2.12006, 1.93061, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3116, -58.4827, -10.8205, 0.607964, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3116, -20.0184, 7.35193, 3.21631, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3116, -20.0184, -2.65308, 3.21631, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3116, 21.0088, 7.35193, 4.45592, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3116, 21.0088, -2.65308, 4.45592, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3116, 61.9161, 7.35193, 2.13409, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3116, 61.9161, -2.65308, 2.11938, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3117, -98.3828, 24.2465, 4.0935, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3117, -98.3828, 14.2415, 4.09843, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3117, -57.7866, 24.2465, 2.35793, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3117, -57.7866, 13.8826, 2.35793, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3117, -17.4401, 24.2465, 3.85297, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3117, -17.4401, 13.8826, 3.85297, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3117, 22.7542, 20.7373, 3.11026, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3117, 20.3217, 10.3734, 3.12375, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3117, 62.629, 7.23358, 2.44609, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3117, 58.4302, -2.21442, 2.44609, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3117, 98.7347, -13.7661, 2.10943, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3117, 92.7264, -21.9665, 2.07767, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3118, -69.9955, 39.8651, -0.476395, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3118, -76.0038, 31.6647, -0.426537, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3118, -34.2391, 18.2867, 2.56428, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3118, -40.2474, 10.0863, 2.45036, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3118, -0.0863342, 0.574463, 6.42818, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3118, -4.55154, -8.68774, 6.31541, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3118, 39.0887, -14.9597, 6.42932, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3118, 34.6235, -24.2219, 6.47883, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3118, 75.5891, -31.4255, 6.59274, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3118, 69.3145, -40.0156, 6.64321, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 1, 1
+3135, 139.699, -15.9421, 0.820541, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3135, 99.6991, -15.9421, 0.609819, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3135, 59.6991, -15.9421, 0.426826, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3135, 139.699, -0.00561523, 0.235296, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3135, 99.6991, -0.00561523, 0.0245743, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3135, 59.6991, -0.00561523, -0.158419, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3135, 19.6991, -0.00561523, -0.162731, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3135, -20.3009, -0.00561523, -0.143923, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3135, -60.3009, -0.00561523, -0.14325, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3135, -100.301, -0.00561523, -0.142878, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3135, -140.301, -0.00561523, -0.148031, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3135, -180.301, -0.00561523, -0.122828, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3135, -180.301, 15.7596, 0.462418, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3135, -140.301, 15.7596, 0.437214, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3135, 19.6991, -15.9421, 0.422514, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3135, -140.301, -15.9421, 0.437214, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3135, -180.301, -15.9421, 0.462418, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3135, -20.3009, -15.9421, 0.441322, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3135, -60.3009, -15.9421, 0.441996, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3135, -100.301, -15.9421, 0.442368, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3135, 59.699, 15.7596, 0.426826, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3135, 19.699, 15.7596, 0.422514, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3135, -20.301, 15.7596, 0.441322, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3135, 99.699, 15.7596, 0.609819, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3135, 179.699, -15.9421, 0.844282, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3135, 139.699, 15.7596, 0.820541, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3135, 179.699, 15.7596, 0.8519, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3135, 179.699, -0.00561523, 0.284242, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3135, -100.301, 15.7596, 0.442368, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3135, -60.301, 15.7596, 0.441996, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3144, 5.92871, 13.5593, 0.714668, 86, 86, 86, 200, 1, 1, 0.017, -2.02656e-009, 0, 0.662
+3144, 5.92126, -4.62637, 0.658337, 86, 86, 86, 200, 1, 1, 0.011, -1.3113e-009, 0, 0.659
+3144, 5.92371, -9.09918, 0.706161, 86, 86, 86, 200, 1, 1, 0.011, 9.83477e-010, 3.27826e-010, 0.524
+3144, -5.88049, -4.28307, 0.836887, 86, 86, 86, 200, 1, 0, -0.007, 1.66893e-009, 0, 0.613
+3144, -5.81067, 4.79239, -0.722679, 86, 86, 86, 200, 1, 0, -0.015, 3.57628e-009, 0, 0.554
+3172, -30.7987, 18.1079, 15.724, 228, 145, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 4, 8, 40, 1, 0, 0, 0
+3172, -27.4036, 18.1079, 15.724, 228, 145, 0, 200, 0, "coronastar", "shad_exp", 100, 0, 4, 0, 40, 1, 0, 0, 0
+3172, -26.4509, 18.1079, 15.724, 228, 145, 0, 200, 0, "coronastar", "shad_exp", 100, 0, 4, 0, 40, 1, 0, 0, 0
+3172, -23.1515, 18.1079, 15.724, 228, 145, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 4, 8, 40, 1, 0, 0, 0
+3172, -22.0927, 18.1079, 15.724, 228, 145, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 4, 8, 40, 1, 0, 0, 0
+3172, -18.7986, 18.1079, 15.724, 228, 145, 0, 200, 0, "coronastar", "shad_exp", 100, 0, 4, 0, 40, 1, 0, 0, 0
+3172, -17.7724, 18.1079, 15.724, 228, 145, 0, 200, 0, "coronastar", "shad_exp", 100, 0, 4, 0, 40, 1, 0, 0, 0
+3172, -14.3861, 18.1079, 15.724, 228, 145, 0, 200, 0, "coronastar", "shad_exp", 100, 0, 4, 0, 40, 1, 0, 0, 0
+3172, -31.7867, 18.1079, 15.724, 228, 145, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 4, 8, 40, 1, 0, 0, 0
+3172, -35.0978, 18.1079, 15.724, 228, 145, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 4, 8, 40, 1, 0, 0, 0
+3172, -48.2733, 10.8242, 21.7796, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3172, -48.2733, 0.460266, 21.7796, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3172, -7.92676, 0.460266, 23.2747, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3172, -7.92676, 10.8242, 23.2747, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3172, 29.835, -3.04889, 22.5455, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3172, 32.2675, 7.315, 22.532, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3172, -88.8695, 10.8242, 23.5152, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3172, -88.8695, 0.819153, 23.5201, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3172, 67.9435, -15.6367, 21.8678, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3172, 72.1423, -6.18872, 21.8678, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3172, 102.24, -35.3888, 21.4994, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3172, 108.248, -27.1884, 21.5311, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 18, 10, 8, 40, 0, 0, 0, 1
+3175, -36.782, -51.7688, -17.8601, 200, 200, 200, 100, 0, "coronastar", "shad_exp", 150, 18, 4, 8, 40, 1, 0, 0, 0
+3175, -36.782, 3.07207, -17.8601, 200, 200, 200, 100, 0, "coronastar", "shad_exp", 100, 18, 4, 8, 40, 1, 0, 0, 0
+3175, -36.8708, 62.6354, -17.8601, 200, 200, 200, 100, 0, "coronastar", "shad_exp", 100, 18, 4, 8, 40, 1, 0, 0, 0
+3177, -0.175171, -0.672363, 92.6918, 17, 255, 23, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3183, 18.348, 13.3762, 2.06022, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3183, 18.348, 8.90156, 2.06022, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3183, 18.348, -8.34286, 2.06022, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3183, 18.348, -12.7872, 2.06022, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3187, 22.0084, 8.1991, 0.617114, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3187, 90.2776, -36.3868, 0.0318689, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3187, 53.1902, -21.4026, 0.0318689, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3187, 16.1029, -6.41833, 0.0318689, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3187, -20.9845, 8.56592, 0.0318689, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3187, -58.0718, 23.5503, 0.0318689, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3187, -95.1593, 38.5345, 0.0318689, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3187, 133.271, -36.7538, 0.617114, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3187, -138.217, 38.7427, 0.617114, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3187, -89.2535, 53.1519, 0.617114, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3187, -52.1663, 38.1676, 0.617114, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3187, -15.0789, 23.1833, 0.617114, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3187, 127.365, -51.3711, 0.0318689, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3187, 59.0958, -6.78516, 0.617114, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3187, 96.1831, -21.7694, 0.617114, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3187, -26.9545, -6.21008, 0.617114, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3187, -101.129, 23.7584, 0.617114, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3187, -64.0419, 8.77417, 0.617114, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3187, 84.3076, -51.163, 0.617114, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3187, 10.1328, -21.1945, 0.617114, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3187, 47.2203, -36.1787, 0.617114, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3187, 121.395, -66.1472, 0.617114, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3187, -132.247, 53.5188, 0.0318689, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+3187, -126.341, 68.1361, 0.617114, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+end

@@ -1,5 +1,0 @@
-<meta>
-    <script src="subtitle_c.lua" type="client"/>
-    <script src="vehiclename_c.lua" type="client"/>
-    <export function="showPlayerSubtitle" type="client"/>
-</meta>

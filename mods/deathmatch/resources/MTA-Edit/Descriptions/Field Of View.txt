@@ -1,3 +1,0 @@
-Freecam Field Of View (FOV)
-the higher your resolution the
-higher this should be.

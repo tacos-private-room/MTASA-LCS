@@ -1,4 +1,0 @@
-Movement Type
-- Position
-- Rotation
-- Scale

@@ -1,6 +1,6 @@
 <meta>
-    <info author="nurupo" type="script" version="2.0.1" />
-    <script src="2dfx.lua" type="client" />
-    <script src="test.lua" type="client" />
-
+    <script src="main_v2.lua" type="client"/>
+    <script src="debug.lua" type="client"/>
+    <export function="init" type="client" />
+    <include resource="dl_lightmanager"/>
 </meta>

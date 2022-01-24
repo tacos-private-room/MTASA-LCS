@@ -1,7 +1,0 @@
-<meta>
-	<info name="dr_vehicles" author="Ren712" version="0.0.1" type="script" />
-	<script src="c_vehicleLight.lua" type="client" />
-	<file src="shaders/shader_null.fx" type="client" />
-	<include resource="dr_lightmanager" />
-	<include resource="dr_rendertarget" />
-</meta>

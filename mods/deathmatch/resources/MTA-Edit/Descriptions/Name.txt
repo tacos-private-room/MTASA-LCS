@@ -1,3 +1,0 @@
-Name of the map, pretty
-much what the file will
-be called within the resource.

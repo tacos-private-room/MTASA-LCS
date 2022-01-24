@@ -1,4 +1,0 @@
-The relative movement type
-
-- Local is relative to the element
-- World is relative to the world

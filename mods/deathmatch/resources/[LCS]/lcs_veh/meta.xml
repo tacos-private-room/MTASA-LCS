@@ -1,6 +1,0 @@
-<meta>
-	<info name="Replace Texture" author="PRO|Hunterix" version="1.0.1" type="script" />
-	<script src="script/file_c.lua" type="client" />
-	<file src="material/effect.fx" />
-	<file src="material/fireball6.png" />
-</meta>

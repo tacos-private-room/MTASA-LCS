@@ -1,5 +1,0 @@
-<meta>
-    <script src="ferry.lua" type="server" />
-    <script src="ferry_c.lua" type="client" />
-    <file src="ferry.dat"/>
-</meta>

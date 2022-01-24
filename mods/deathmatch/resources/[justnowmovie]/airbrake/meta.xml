@@ -1,5 +1,0 @@
-<meta>
-	<info author="CrystalMV" version="1.0" name="AirBrake" description="Move around in the air" type="script"/>
-	<script src="airbrake.lua" type="client" />
-</meta>
-

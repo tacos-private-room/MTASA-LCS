@@ -1,4 +1,0 @@
-Toggle SAs map, used
-if you want a blank slate.
-setting in meta, will not
-work in MTAs original editor.
